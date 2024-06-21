@@ -8,11 +8,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: sprites
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+      - name: Set up Homebrew
+        id: set-up-homebrew
+        uses: Homebrew/actions/setup-homebrew
       - name: Install generator
-        run: cargo install spreet
+        run: brew install flother/taps/spreet
       - name: Generate sprites
         run: |
           spreet svg seamarks-sprites
