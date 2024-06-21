@@ -12,13 +12,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Install generator
-        run: |
-          yarn global add @mapbox/spritezero
-          yarn global add @mapbox/spritezero-cli
+        run: brew install flother/taps/spreet
       - name: Generate sprites
         run: |
-          spritezero seamarks-sprites svg
-          spritezero --retina seamarks-sprites@2 svg
+          spreet svg seamarks-sprites
+          spreet --retina svg seamarks-sprites@2
       - name: Check difference
         run: |
           git add --all . && \
