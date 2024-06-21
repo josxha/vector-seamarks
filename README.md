@@ -58,10 +58,6 @@ OpenSeaMap data. Some of them are:
 6. Display the tiles with by using Mapbox / MapLibre style JSON
 
 ## More resources
-### Symbols
-
-- https://github.com/OpenSeaMap/renderer/tree/master/searender/symbols
-- https://github.com/OpenNauticalChart/josm/tree/master/icons/svg
 
 ### Discussions & Articles
 
