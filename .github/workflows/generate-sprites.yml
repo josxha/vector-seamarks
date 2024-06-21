@@ -13,8 +13,23 @@ jobs:
         uses: actions/checkout@v4
       - name: Install generator
         run: |
+          yarn global add @mapbox/spritezero
           yarn global add @mapbox/spritezero-cli
       - name: Generate sprites
         run: |
           spritezero seamarks-sprites svg
           spritezero --retina seamarks-sprites@2 svg
+      - name: Check difference
+        run: |
+          git add --all . && \
+          status=$(git status -s .) && \
+          echo $status && \
+          echo "GIT_STATUS=${status//$'\n'/\\n}" >> $GITHUB_ENV
+      - name: Push changes
+        if: "contains(env.GIT_STATUS, 'sprites')"
+        run: |
+          git add --all . && \
+          git config --global user.email "action@github.com" && \
+          git config --global user.name "Github CI" && \
+          git commit -a -m "generate sprite sheets" && \
+          git push
