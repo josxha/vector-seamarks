@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Install generator
-        run: brew install flother/taps/spreet
+        run: cargo install spreet
       - name: Generate sprites
         run: |
           spreet svg seamarks-sprites
