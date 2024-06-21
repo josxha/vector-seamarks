@@ -1,120 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="10.59375"
-   id="svg7531"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="U23.svg"
-   sodipodi:version="0.32"
-   width="21.25"
-   version="1.1">
-  <title
-     id="title2986">U23: Public Toilet</title>
-  <metadata
-     id="metadata3">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>U23: Public Toilet</dc:title>
-        <dc:description />
-        <dc:subject>
-          <rdf:Bag />
-        </dc:subject>
-        <dc:publisher>
-          <cc:Agent
-             rdf:about="http://www.openclipart.org/">
-            <dc:title />
-          </cc:Agent>
-        </dc:publisher>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:creator>
-        <dc:rights>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:rights>
-        <dc:date />
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
-        <dc:language />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7533" />
-  <sodipodi:namedview
-     bordercolor="#666666"
-     borderopacity="1.0"
-     id="base"
-     inkscape:current-layer="layer1"
-     inkscape:cx="-2.0970021"
-     inkscape:cy="5"
-     inkscape:document-units="px"
-     inkscape:grid-bbox="true"
-     inkscape:guide-bbox="true"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:window-height="808"
-     inkscape:window-width="1440"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:zoom="17.68"
-     pagecolor="#ffffff"
-     showgrid="true"
-     showguides="true"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <g
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Layer 1"
-     transform="translate(-7.1874999,-4.40625)">
-    <g
-       id="g7508"
-       style="display:inline"
-       transform="matrix(0.80782595,0,0,1,1.4697425,-0.588389)">
-      <path
-         style="color:#000000;fill:#a30075;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.37499964;marker:none;visibility:visible;display:inline;overflow:visible"
-         d="m 7.1875,4.40625 0,10.59375 21.25,0 0,-10.59375 -21.25,0 z m 15.6875,1.5 0.5625,0 L 23.875,6 l 0.5,0.1875 0.40625,0.21875 0.40625,0.40625 0.21875,0.34375 0.1875,0.375 0.21875,0.5625 -1.75,0.46875 -0.09375,-0.40625 -0.25,-0.3125 -0.28125,-0.21875 -0.375,-0.0625 -0.375,0 -0.28125,0.09375 -0.3125,0.25 -0.15625,0.28125 -0.1875,0.46875 -0.0625,0.625 c -0.0061,0.2335133 0.0062,0.4539867 0,0.6875 l 0.09375,0.625 0.125,0.46875 0.25,0.34375 0.375,0.21875 0.375,0.03125 0.34375,-0.03125 0.375,-0.1875 0.3125,-0.375 0.15625,-0.46875 0.0625,-0.375 1.71875,0.625 -0.3125,1.03125 -0.5,0.71875 L 24.5,13 l -0.59375,0.21875 -0.4375,0.0625 -0.625,0.03125 -0.5625,-0.0625 -0.625,-0.125 -0.5625,-0.28125 -0.5,-0.5 -0.3125,-0.4375 -0.3125,-0.6875 -0.125,-0.65625 -0.09375,-0.59375 0,-0.625 0.03125,-0.59375 0.15625,-0.65625 0.15625,-0.5 0.34375,-0.53125 0.34375,-0.46875 0.5,-0.3125 0.5625,-0.25 L 22.3125,5.9375 22.875,5.90625 z M 9.5625,6 11.4375,6.03125 12.09375,10 13.0625,6.03125 l 1.84375,0 L 15.875,10 l 0.6875,-3.96875 1.84375,0 -1.375,7.15625 -1.9375,0 -1.125,-4.5 -1.09375,4.5 -1.875,0 L 9.5625,6 z"
-         transform="matrix(1.2378904,0,0,1,-1.8193802,0.588389)"
-         id="rect1331"
-         inkscape:connector-curvature="0" />
-    </g>
-  </g>
-  <g
-     id="layer4"
-     inkscape:groupmode="layer"
-     inkscape:label="text"
-     transform="translate(-7.1874999,-4.40625)">
-    <g
-       id="g7525"
-       style="display:inline"
-       transform="matrix(0.88057009,0,0,1,2.5496936,-1)" />
-  </g>
+   xmlns:xlink="http://www.w3.org/1999/xlink"  
+   version="1.1"
+   width="60"
+   height="60">
+   <symbol id="toilet" width="60" height="60">
+    <rect width="58" height="58" rx="10" ry="10" x="1" y="1"
+     style="fill:#ffffff;fill-opacity:0.5;stroke:#a30075;stroke-width:2" />
+    <rect width="4" height="40" x="28" y="10"
+     style="fill:#a30075;stroke:none" />
+    <path d="m 44.656246,7.3963368 c -2.09605,0 -3.78861,1.72147 -3.78861,3.8533102 0,2.13184 1.69256,3.85332 3.78861,3.85332 2.09604,0 3.82155,-1.72148 3.82155,-3.85332 0,-2.1318402 -1.72551,-3.8533102 -3.82155,-3.8533102 z m -29.4523,0.40209 c -2.09604,0 -3.82155,1.72147 -3.82155,3.8533102 0,2.13184 1.72551,3.85331 3.82155,3.85331 2.09604,0 3.7886,-1.72147 3.7886,-3.85331 0,-2.1318402 -1.69256,-3.8533102 -3.7886,-3.8533102 z m 33.86685,9.4154802 -9.75155,0.067 -2.86616,2.61355 0.23061,14.207 2.73439,-0.067 -0.16473,-11.29188 1.51545,0 0.16472,29.48622 2.47083,0.16754 0.32944,-17.89278 1.35072,0.10052 0.56006,17.65823 2.6685,-0.067 -0.033,-29.68727 1.41661,0.13403 0.32945,11.55994 2.80027,0.067 -0.56005,-14.54207 -3.19561,-2.51303 z m -39.07207,0.16754 -5.17227,15.58079 2.24022,0.90469 3.65683,-11.05734 1.05422,0.16754 -4.151,15.84884 3.49211,0.067 0.49417,13.23529 2.30611,0 0.39533,-12.96723 1.44955,0 0.23061,12.90022 2.33906,0 0.23061,-13.00074 3.82155,-0.067 -4.151,-15.51377 1.12011,-0.67015 3.36033,11.22487 2.47083,-1.37379 -5.04049,-14.97766 -10.14688,-0.30156 z"
+     style="fill:#a30075" />
+   </symbol>
+   <use xlink:href="#toilet" x="0" y="0"/>
 </svg>
