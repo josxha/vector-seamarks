@@ -1,0 +1,20 @@
+name: Generate Sprites
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Install generator
+        run: |
+          yarn global add @mapbox/spritezero-cli
+      - name: Generate sprites
+        run: |
+          spritezero seamarks-sprites svg
+          spritezero --retina seamarks-sprites@2 svg
