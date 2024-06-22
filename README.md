@@ -48,16 +48,20 @@ OpenSeaMap data. Some of them are:
 - Completely up-to-date tiles (e.g. daily updates)
 - Plotters like Garmin or Raymarine are not supported
 
-### Pipeline
+### Generate vector tiles
 
 1. Download OpenSeaMap data
 2. Filter data to only include sea marks (`seamark:type=` exists)
 3. Convert data to GeoJSON
 4. Generate vector tiles from GeoJSON
-5. Serve vector tiles
-6. Display the tiles with by using Mapbox / MapLibre style JSON
+5. (optional) Convert them into PMTiles
+6. Serve vector tiles
+7. Display the tiles with by using Mapbox / MapLibre style JSON
 
-## More resources
+### Current limitations
+
+- Multiple small craft facilities can be on the same point separated by a semicolon
+- Some sea marks are not rendered correctly (e.g. [Sectored and Directional Lights](https://wiki.openstreetmap.org/wiki/Seamarks/Sectored_and_Directional_Lights))
 
 ### Discussions & Articles
 

@@ -1,12 +1,12 @@
-<svg
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"  
-   version="1.1"
-   width="30"
-   height="68">
-  <symbol id="cable" width="30" height="68">
-    <path d="M 15,8 20,13 23.6,18 25,23 23.6,28 20,33 15,38 10,43 6.4,48 5,53 6.4,58 10,63 15,68"
-      style="fill:none;stroke:#c480ff;stroke-width:8;stroke-linecap:round" />
-  </symbol>
-  <use xlink:href="#cable" x="0" y="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="73px" height="29.3px" viewBox="0 0 73 29.3" style="enable-background:new 0 0 73 29.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#C480FF;stroke-width:8;stroke-linecap:round;}
+</style>
+<symbol  id="cable" viewBox="-14.2 -34 28.3 68">
+	<path class="st0" d="M0-30l5,5l3.6,5l1.4,5l-1.4,5L5-5L0,0l-5,5l-3.6,5l-1.4,5l1.4,5l3.6,5l5,5"/>
+</symbol>
+<use xlink:href="#cable"  width="28.3" height="68" x="-14.2" y="-34" transform="matrix(6.123234e-17 -1 1 6.123234e-17 36.7528 14.2809)" style="overflow:visible;"/>
 </svg>
