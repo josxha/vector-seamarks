@@ -19,19 +19,19 @@ jobs:
         uses: Homebrew/actions/setup-homebrew@master
       - name: Install generator
         run: brew install flother/taps/spreet
-#      - name: Generate sprites
-#        run: sh generate_sprites.sh
-#      - name: Check difference
-#        run: |
-#          git add --all . && \
-#          status=$(git status -s .) && \
-#          echo $status && \
-#          echo "GIT_STATUS=${status//$'\n'/\\n}" >> $GITHUB_ENV
-#      - name: Push changes
-#        if: "contains(env.GIT_STATUS, 'sprites')"
-#        run: |
-#          git add --all . && \
-#          git config --global user.email "action@github.com" && \
-#          git config --global user.name "Github CI" && \
-#          git commit -a -m "generate sprite sheets" && \
-#          git push
+      - name: Generate sprites
+        run: sh generate_sprites.sh
+      - name: Check difference
+        run: |
+          git add --all . && \
+          status=$(git status -s .) && \
+          echo $status && \
+          echo "GIT_STATUS=${status//$'\n'/\\n}" >> $GITHUB_ENV
+      - name: Push changes
+        if: "contains(env.GIT_STATUS, 'sprites')"
+        run: |
+          git add --all . && \
+          git config --global user.email "action@github.com" && \
+          git config --global user.name "Github CI" && \
+          git commit -a -m "generate sprite sheets" && \
+          git push
