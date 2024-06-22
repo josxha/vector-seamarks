@@ -23,6 +23,12 @@
 <body>
 <div id="map"></div>
 <script>
+    // Add support that PMTiles files can get used as sources
+    // see https://docs.protomaps.com/pmtiles/maplibre
+    const protocol = new pmtiles.Protocol();
+    maplibregl.addProtocol("pmtiles", protocol.tile);
+
+    // Create a new map
     const map = new maplibregl.Map({
         container: 'map',
         style: 'https://raw.githubusercontent.com/josxha/vector-seamarks/main/style/seamarks.json',
@@ -30,6 +36,7 @@
         zoom: 9
     });
 
+    // Add some controls
     map.addControl(
         new maplibregl.NavigationControl({
             visualizePitch: true,
