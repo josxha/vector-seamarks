@@ -20,9 +20,7 @@ jobs:
       - name: Install generator
         run: brew install flother/taps/spreet
       - name: Generate sprites
-        run: |
-          spreet --unique --recursive svg seamarks-sprites
-          spreet --unique --recursive --retina svg seamarks-sprites@2x
+        run: ./generate-sprites.sh
       - name: Check difference
         run: |
           git add --all . && \

@@ -23,7 +23,6 @@ OpenSeaMap data. Some of them are:
 - https://web.archive.org/web/20210624173209/https://www.openseachart.org/doku.php/enc (ENC format, links to government data, not available anymore)
 - https://www.elwis.de/DE/Service/Inland-ENC-der-WSV/Inland-ENC-der-WSV-node.html (ENC format, German waterways)
 - https://github.com/tilery/OpenRiverboatMap (CartoCSS style, only waterways)
-- https://wiki.openseamap.org/wiki/OpenSeaMap-dev:Android/Victor (Android app, not available anymore)
 - https://wiki.openstreetmap.org/wiki/User:Kannix/vector-tiles, https://maps.grade.de/ (only waterways)
 
 ### The focus of this project are the following:
