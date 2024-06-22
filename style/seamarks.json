@@ -11,7 +11,7 @@
   "sources": {
     "seamarks": {
       "type": "vector",
-      "url": "pmtiles://josxha.github.io/vector-seamarks/seamarks.pmtiles"
+      "url": "pmtiles://https://josxha.github.io/vector-seamarks/seamarks.pmtiles"
     },
     "openstreetmap": {
       "type": "raster",
@@ -40,7 +40,7 @@
       "id": "openseamap",
       "type": "raster",
       "source": "openseamap",
-      "layout": {"visibility": "visible"},
+      "layout": {"visibility": "none"},
       "paint": {"raster-opacity": 0.3}
     },
     {
