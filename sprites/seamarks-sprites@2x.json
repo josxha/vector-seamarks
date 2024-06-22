@@ -3,8 +3,8 @@
     "height": 24,
     "pixelRatio": 2,
     "width": 24,
-    "x": 6170,
-    "y": 1214
+    "x": 5544,
+    "y": 2222
   },
   "B - Positions, Distances, Directions, Compass/B25.2": {
     "height": 60,
@@ -325,8 +325,8 @@
     "height": 24,
     "pixelRatio": 2,
     "width": 58,
-    "x": 5526,
-    "y": 1036
+    "x": 5486,
+    "y": 2222
   },
   "J - Nature of the Seabed/J22": {
     "height": 28,
@@ -413,11 +413,18 @@
     "y": 2978
   },
   "L - Offshore Installations/L30.1": {
-    "height": 136,
+    "height": 58,
     "pixelRatio": 2,
-    "width": 60,
-    "x": 5318,
-    "y": 1590
+    "width": 146,
+    "x": 5286,
+    "y": 1068
+  },
+  "L - Offshore Installations/L40": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 138,
+    "x": 5286,
+    "y": 4056
   },
   "L - Offshore Installations/L5.1": {
     "height": 216,
@@ -458,8 +465,8 @@
     "height": 120,
     "pixelRatio": 2,
     "width": 60,
-    "x": 5526,
-    "y": 916
+    "x": 5318,
+    "y": 1590
   },
   "M - Tracks, Routes/M40.1": {
     "height": 282,
@@ -1494,8 +1501,8 @@
     "height": 60,
     "pixelRatio": 2,
     "width": 120,
-    "x": 5286,
-    "y": 1068
+    "x": 5884,
+    "y": 436
   },
   "Q - Buoys, Beacons/CEVNI/prohibition_ends": {
     "height": 120,
@@ -2026,7 +2033,7 @@
     "height": 152,
     "pixelRatio": 2,
     "width": 42,
-    "x": 5586,
+    "x": 5526,
     "y": 916
   },
   "Q - Buoys, Beacons/RIWR/check_point": {
@@ -2824,8 +2831,8 @@
     "height": 60,
     "pixelRatio": 2,
     "width": 120,
-    "x": 5286,
-    "y": 1068
+    "x": 5884,
+    "y": 436
   },
   "Q - Buoys, Beacons/generic/prohibition_ends": {
     "height": 120,
@@ -2986,7 +2993,7 @@
     "pixelRatio": 2,
     "width": 24,
     "x": 6170,
-    "y": 1238
+    "y": 1214
   },
   "S - Radar, Radio, Satellite Navigation Systems/S5": {
     "height": 48,

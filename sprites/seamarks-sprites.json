@@ -3,15 +3,15 @@
     "height": 12,
     "pixelRatio": 1,
     "width": 12,
-    "x": 2825,
-    "y": 102
+    "x": 3061,
+    "y": 200
   },
   "B - Positions, Distances, Directions, Compass/B25.2": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 2703,
-    "y": 538
+    "x": 2874,
+    "y": 1072
   },
   "D - Cultural Features/D20": {
     "height": 60,
@@ -276,8 +276,8 @@
     "height": 16,
     "pixelRatio": 1,
     "width": 32,
-    "x": 3043,
-    "y": 631
+    "x": 3103,
+    "y": 613
   },
   "J - Nature of the Seabed/J13.4": {
     "height": 18,
@@ -332,8 +332,8 @@
     "height": 14,
     "pixelRatio": 1,
     "width": 35,
-    "x": 1776,
-    "y": 793
+    "x": 3026,
+    "y": 200
   },
   "K - Rocks, Wrecks, Obstructions, Aquaculture/K11": {
     "height": 88,
@@ -413,11 +413,18 @@
     "y": 1489
   },
   "L - Offshore Installations/L30.1": {
-    "height": 68,
+    "height": 29,
     "pixelRatio": 1,
-    "width": 30,
-    "x": 1510,
-    "y": 1489
+    "width": 73,
+    "x": 2643,
+    "y": 538
+  },
+  "L - Offshore Installations/L40": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 69,
+    "x": 1283,
+    "y": 1550
   },
   "L - Offshore Installations/L5.1": {
     "height": 108,
@@ -521,8 +528,8 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 2874,
-    "y": 1072
+    "x": 3223,
+    "y": 500
   },
   "N - Areas, Limits/N2.2": {
     "height": 437,
@@ -549,8 +556,8 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 3223,
-    "y": 500
+    "x": 2795,
+    "y": 86
   },
   "P - Lights/P1.major": {
     "height": 64,
@@ -1494,8 +1501,8 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 60,
-    "x": 2643,
-    "y": 538
+    "x": 2016,
+    "y": 315
   },
   "Q - Buoys, Beacons/CEVNI/prohibition_ends": {
     "height": 60,
@@ -1788,8 +1795,8 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 2795,
-    "y": 86
+    "x": 3163,
+    "y": 538
   },
   "Q - Buoys, Beacons/PPWBC/right/bridge": {
     "height": 60,
@@ -1830,43 +1837,43 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 3163,
-    "y": 538
+    "x": 3279,
+    "y": 300
   },
   "Q - Buoys, Beacons/PPWBC/right/keep_to_mid-river": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 3103,
+    "y": 583
+  },
+  "Q - Buoys, Beacons/PPWBC/right/keep_to_port": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
     "x": 3279,
     "y": 300
   },
-  "Q - Buoys, Beacons/PPWBC/right/keep_to_port": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3163,
-    "y": 538
-  },
   "Q - Buoys, Beacons/PPWBC/right/keep_to_port_margin": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 3163,
-    "y": 538
+    "x": 3279,
+    "y": 300
   },
   "Q - Buoys, Beacons/PPWBC/right/keep_to_starboard": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 3163,
-    "y": 538
+    "x": 3279,
+    "y": 300
   },
   "Q - Buoys, Beacons/PPWBC/right/keep_to_starboard_margin": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 3163,
-    "y": 538
+    "x": 3279,
+    "y": 300
   },
   "Q - Buoys, Beacons/PPWBC/right/main_waterway_left_secondary_ahead_right": {
     "height": 34,
@@ -1886,8 +1893,8 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 3279,
-    "y": 300
+    "x": 3103,
+    "y": 583
   },
   "Q - Buoys, Beacons/PPWBC/right/opening_to_left": {
     "height": 60,
@@ -1907,15 +1914,15 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 2795,
-    "y": 86
+    "x": 3163,
+    "y": 538
   },
   "Q - Buoys, Beacons/PPWBC/right/secondary_waterway_right": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 2795,
-    "y": 86
+    "x": 3163,
+    "y": 538
   },
   "Q - Buoys, Beacons/Q100_sdf": {
     "height": 58,
@@ -2026,8 +2033,8 @@
     "height": 76,
     "pixelRatio": 1,
     "width": 21,
-    "x": 2219,
-    "y": 1862
+    "x": 1510,
+    "y": 1489
   },
   "Q - Buoys, Beacons/RIWR/check_point": {
     "height": 284,
@@ -2824,8 +2831,8 @@
     "height": 30,
     "pixelRatio": 1,
     "width": 60,
-    "x": 2643,
-    "y": 538
+    "x": 2016,
+    "y": 315
   },
   "Q - Buoys, Beacons/generic/prohibition_ends": {
     "height": 60,
@@ -2985,15 +2992,15 @@
     "height": 12,
     "pixelRatio": 1,
     "width": 12,
-    "x": 1811,
-    "y": 793
+    "x": 2805,
+    "y": 872
   },
   "S - Radar, Radio, Satellite Navigation Systems/S5": {
     "height": 24,
     "pixelRatio": 1,
     "width": 59,
-    "x": 1776,
-    "y": 769
+    "x": 2016,
+    "y": 345
   },
   "T - Services/T1.1": {
     "height": 138,
@@ -3048,8 +3055,8 @@
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 2825,
-    "y": 86
+    "x": 1352,
+    "y": 1550
   },
   "U - Small Craft (Leisure) Facilities/U18": {
     "height": 60,
