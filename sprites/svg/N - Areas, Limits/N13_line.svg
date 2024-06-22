@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="94.4px" height="33.7px" viewBox="0 0 94.4 33.7" style="enable-background:new 0 0 94.4 33.7;" xml:space="preserve">
+	 width="36.7px" height="13.1px" viewBox="0 0 36.7 13.1" style="enable-background:new 0 0 36.7 13.1;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#C480FF;}
 	.st1{fill:none;stroke:#C480FF;stroke-width:5;}
@@ -12,5 +12,5 @@
 		C-7.8,41.9,2,43.6,10,39.3z"/>
 	<line class="st1" x1="2" y1="-8.7" x2="10" y2="-12.7"/>
 </symbol>
-<use xlink:href="#line_plane"  width="28" height="83.3" x="-14" y="-41.7" transform="matrix(3.529010e-07 1.0799 -1.0799 3.529010e-07 46.6404 16.7079)" style="overflow:visible;"/>
+<use xlink:href="#line_plane"  width="28" height="83.3" x="-14" y="-41.7" transform="matrix(1.046478e-07 0.3202 -0.3202 1.046478e-07 17.7865 6.4029)" style="overflow:visible;"/>
 </svg>
