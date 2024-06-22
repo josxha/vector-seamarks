@@ -1,16 +1,19 @@
-<svg
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"  
-   version="1.1"
-   width="60"
-   height="60">
-  <symbol id="line_anchor" width="60" height="60">
-    <path d="M 15,30 L 55,30" style="fill:none;stroke:#c480ff;stroke-width:5" />
-    <path d="M 18,20 L 18,40" style="fill:none;stroke:#c480ff;stroke-width:5" />
-    <circle cx="10" cy="30" r="5" style="fill:none;stroke:#c480ff;stroke-width:3" />
-    <path d="M 40,10 A30,30 0 0 1 40,50" style="fill:none;stroke:#c480ff;stroke-width:5" />
-    <path d="M 35,4 L 46,8 L 37,15 z" style="fill:#c480ff;stroke:none" />
-    <path d="M 35,56 L 46,52 L 37,45 z" style="fill:#c480ff;stroke:none" />
-  </symbol>
-  <use xlink:href="#line_anchor" x="0" y="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="67.9px" height="67.9px" viewBox="0 0 67.9 67.9" style="enable-background:new 0 0 67.9 67.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#C480FF;stroke-width:5;}
+	.st1{fill:none;stroke:#C480FF;stroke-width:3;}
+	.st2{fill:#C480FF;}
+</style>
+<symbol  id="line_anchor" viewBox="-25.8 -26 51.5 52">
+	<path class="st0" d="M-14.3,0h40"/>
+	<path class="st0" d="M-11.3-10v20"/>
+	<circle class="st1" cx="-19.3" cy="0" r="5"/>
+	<path class="st0" d="M10.8-20c10.2,11.4,10.2,28.6,0,40"/>
+	<path class="st2" d="M5.8-26l11,4l-9,7L5.8-26z"/>
+	<path class="st2" d="M5.8,26l11-4l-9-7L5.8,26z"/>
+</symbol>
+<use xlink:href="#line_anchor"  width="51.5" height="52" x="-25.8" y="-26" transform="matrix(-2.119581e-16 1.1538 -1.1538 -2.119581e-16 33.9551 33.9551)" style="overflow:visible;"/>
 </svg>
