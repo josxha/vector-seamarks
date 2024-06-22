@@ -574,6 +574,7 @@
     "y": 1222
   },
   "P - Lights/P10.1_sdf": {
+    "sdf":true,
     "height": 400,
     "pixelRatio": 1,
     "width": 300,
@@ -1925,6 +1926,7 @@
     "y": 538
   },
   "Q - Buoys, Beacons/Q100_sdf": {
+    "sdf": true,
     "height": 58,
     "pixelRatio": 1,
     "width": 85,
@@ -1932,6 +1934,7 @@
     "y": 100
   },
   "Q - Buoys, Beacons/Q101_sdf": {
+    "sdf": true,
     "height": 245,
     "pixelRatio": 1,
     "width": 268,
@@ -1939,6 +1942,7 @@
     "y": 1169
   },
   "Q - Buoys, Beacons/Q110_sdf": {
+    "sdf": true,
     "height": 86,
     "pixelRatio": 1,
     "width": 72,
@@ -1946,6 +1950,7 @@
     "y": 901
   },
   "Q - Buoys, Beacons/Q111_sdf": {
+    "sdf": true,
     "height": 86,
     "pixelRatio": 1,
     "width": 72,
@@ -1960,6 +1965,7 @@
     "y": 369
   },
   "Q - Buoys, Beacons/Q20_sdf": {
+    "sdf": true,
     "height": 68,
     "pixelRatio": 1,
     "width": 84,
@@ -1967,6 +1973,7 @@
     "y": 1969
   },
   "Q - Buoys, Beacons/Q21_sdf": {
+    "sdf": true,
     "height": 61,
     "pixelRatio": 1,
     "width": 85,
@@ -1974,6 +1981,7 @@
     "y": 1489
   },
   "Q - Buoys, Beacons/Q22_sdf": {
+    "sdf": true,
     "height": 62,
     "pixelRatio": 1,
     "width": 78,
@@ -1981,6 +1989,7 @@
     "y": 987
   },
   "Q - Buoys, Beacons/Q23_sdf": {
+    "sdf": true,
     "height": 116,
     "pixelRatio": 1,
     "width": 86,
@@ -1988,6 +1997,7 @@
     "y": 951
   },
   "Q - Buoys, Beacons/Q24_sdf": {
+    "sdf": true,
     "height": 115,
     "pixelRatio": 1,
     "width": 60,
@@ -1995,6 +2005,7 @@
     "y": 200
   },
   "Q - Buoys, Beacons/Q25_sdf": {
+    "sdf": true,
     "height": 55,
     "pixelRatio": 1,
     "width": 115,
@@ -2002,6 +2013,7 @@
     "y": 1968
   },
   "Q - Buoys, Beacons/Q26_sdf": {
+    "sdf": true,
     "height": 43,
     "pixelRatio": 1,
     "width": 144,
@@ -2009,6 +2021,7 @@
     "y": 1569
   },
   "Q - Buoys, Beacons/Q31_sdf": {
+    "sdf": true,
     "height": 57,
     "pixelRatio": 1,
     "width": 108,
@@ -2016,6 +2029,7 @@
     "y": 1969
   },
   "Q - Buoys, Beacons/Q40_sdf": {
+    "sdf": true,
     "height": 72,
     "pixelRatio": 1,
     "width": 76,
@@ -2023,6 +2037,7 @@
     "y": 1489
   },
   "Q - Buoys, Beacons/Q81_sdf": {
+    "sdf": true,
     "height": 86,
     "pixelRatio": 1,
     "width": 41,
@@ -2030,6 +2045,7 @@
     "y": 0
   },
   "Q - Buoys, Beacons/Q90_sdf": {
+    "sdf": true,
     "height": 76,
     "pixelRatio": 1,
     "width": 21,
