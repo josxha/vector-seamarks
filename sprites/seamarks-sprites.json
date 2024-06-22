@@ -1,3182 +1,1768 @@
 {
-  "B - Positions, Distances, Directions, Compass/B25.1": {
+  "B25.1": {
     "height": 12,
     "pixelRatio": 1,
     "width": 12,
-    "x": 3061,
-    "y": 200
+    "x": 2684,
+    "y": 895
   },
-  "B - Positions, Distances, Directions, Compass/B25.2": {
+  "B25.2": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 2874,
-    "y": 1072
+    "x": 2495,
+    "y": 949
   },
-  "D - Cultural Features/D20": {
+  "D20": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 2720,
-    "y": 1286
+    "x": 2705,
+    "y": 792
   },
-  "D - Cultural Features/D21": {
+  "D21": {
     "height": 80,
     "pixelRatio": 1,
     "width": 80,
-    "x": 2652,
-    "y": 1968
+    "x": 1218,
+    "y": 1489
   },
-  "E - Landmarks/E10": {
+  "E10": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 2655,
-    "y": 693
+    "x": 2389,
+    "y": 1170
   },
-  "E - Landmarks/E10.1": {
+  "E10.1": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 2733,
-    "y": 538
+    "x": 2425,
+    "y": 990
   },
-  "E - Landmarks/E10.2": {
+  "E10.2": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 2763,
-    "y": 358
+    "x": 2435,
+    "y": 849
   },
-  "E - Landmarks/E10.3": {
+  "E10.3": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 2846,
-    "y": 163
+    "x": 2520,
+    "y": 727
   },
-  "E - Landmarks/E10.4": {
+  "E10.4": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 2925,
-    "y": 0
+    "x": 2589,
+    "y": 625
   },
-  "E - Landmarks/E11": {
+  "E11": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 2655,
-    "y": 693
+    "x": 2389,
+    "y": 1170
   },
-  "E - Landmarks/E12": {
+  "E12": {
     "height": 140,
     "pixelRatio": 1,
     "width": 140,
-    "x": 3152,
-    "y": 1889
+    "x": 2052,
+    "y": 1617
   },
-  "E - Landmarks/E13": {
+  "E13": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 3010,
-    "y": 140
+    "x": 2289,
+    "y": 1136
   },
-  "E - Landmarks/E14": {
+  "E14": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 3010,
-    "y": 140
+    "x": 2289,
+    "y": 1136
   },
-  "E - Landmarks/E15": {
+  "E15": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 3010,
-    "y": 140
+    "x": 2289,
+    "y": 1136
   },
-  "E - Landmarks/E16": {
+  "E16": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 3010,
-    "y": 140
+    "x": 2289,
+    "y": 1136
   },
-  "E - Landmarks/E17": {
+  "E17": {
     "height": 20,
     "pixelRatio": 1,
     "width": 12,
-    "x": 2953,
-    "y": 1052
+    "x": 2809,
+    "y": 1367
   },
-  "E - Landmarks/E18": {
+  "E18": {
     "height": 20,
     "pixelRatio": 1,
     "width": 12,
-    "x": 2953,
-    "y": 1052
+    "x": 2809,
+    "y": 1367
   },
-  "E - Landmarks/E20": {
+  "E20": {
     "height": 161,
     "pixelRatio": 1,
     "width": 84,
-    "x": 2535,
-    "y": 849
+    "x": 2354,
+    "y": 1333
   },
-  "E - Landmarks/E21": {
+  "E21": {
     "height": 163,
     "pixelRatio": 1,
     "width": 84,
-    "x": 2841,
-    "y": 0
+    "x": 2305,
+    "y": 1170
   },
-  "E - Landmarks/E22": {
+  "E22": {
     "height": 187,
     "pixelRatio": 1,
     "width": 104,
     "x": 1444,
     "y": 1819
   },
-  "E - Landmarks/E23": {
+  "E23": {
     "height": 400,
     "pixelRatio": 1,
     "width": 300,
     "x": 1535,
     "y": 807
   },
-  "E - Landmarks/E24": {
+  "E24": {
     "height": 167,
     "pixelRatio": 1,
     "width": 86,
-    "x": 2635,
-    "y": 118
+    "x": 2411,
+    "y": 1842
   },
-  "E - Landmarks/E25": {
+  "E25": {
     "height": 67,
     "pixelRatio": 1,
     "width": 65,
-    "x": 2720,
-    "y": 1155
+    "x": 2680,
+    "y": 725
   },
-  "E - Landmarks/E26.1": {
+  "E26.1": {
     "height": 108,
     "pixelRatio": 1,
     "width": 84,
-    "x": 2721,
-    "y": 793
+    "x": 2609,
+    "y": 418
   },
-  "E - Landmarks/E26.2": {
+  "E26.2": {
     "height": 150,
     "pixelRatio": 1,
     "width": 150,
-    "x": 2852,
-    "y": 1889
-  },
-  "E - Landmarks/E27": {
-    "height": 151,
-    "pixelRatio": 1,
-    "width": 117,
-    "x": 2496,
-    "y": 578
-  },
-  "E - Landmarks/E28": {
-    "height": 173,
-    "pixelRatio": 1,
-    "width": 102,
-    "x": 2117,
-    "y": 1862
-  },
-  "E - Landmarks/E29": {
-    "height": 171,
-    "pixelRatio": 1,
-    "width": 102,
-    "x": 2500,
-    "y": 298
-  },
-  "E - Landmarks/E30.1": {
-    "height": 173,
-    "pixelRatio": 1,
-    "width": 102,
-    "x": 2117,
-    "y": 1862
-  },
-  "E - Landmarks/E30.2": {
-    "height": 171,
-    "pixelRatio": 1,
-    "width": 102,
-    "x": 2500,
-    "y": 298
-  },
-  "E - Landmarks/E31": {
-    "height": 176,
-    "pixelRatio": 1,
-    "width": 95,
     "x": 2540,
     "y": 118
   },
-  "E - Landmarks/E_windsock": {
+  "E27": {
+    "height": 151,
+    "pixelRatio": 1,
+    "width": 117,
+    "x": 2192,
+    "y": 1755
+  },
+  "E28": {
+    "height": 173,
+    "pixelRatio": 1,
+    "width": 102,
+    "x": 2252,
+    "y": 1369
+  },
+  "E29": {
+    "height": 171,
+    "pixelRatio": 1,
+    "width": 102,
+    "x": 2309,
+    "y": 1755
+  },
+  "E30.1": {
+    "height": 173,
+    "pixelRatio": 1,
+    "width": 102,
+    "x": 2252,
+    "y": 1369
+  },
+  "E30.2": {
+    "height": 171,
+    "pixelRatio": 1,
+    "width": 102,
+    "x": 2309,
+    "y": 1755
+  },
+  "E31": {
+    "height": 176,
+    "pixelRatio": 1,
+    "width": 95,
+    "x": 2328,
+    "y": 1542
+  },
+  "E_windsock": {
     "height": 400,
     "pixelRatio": 1,
     "width": 300,
     "x": 1776,
     "y": 369
   },
-  "F - Ports/F": {
+  "F": {
     "height": 180,
     "pixelRatio": 1,
     "width": 180,
-    "x": 2852,
-    "y": 1709
+    "x": 2135,
+    "y": 870
   },
-  "F - Ports/F10": {
+  "F10": {
     "height": 120,
     "pixelRatio": 1,
     "width": 120,
-    "x": 2721,
-    "y": 118
+    "x": 2192,
+    "y": 1926
   },
-  "F - Ports/F19.1": {
+  "F19.1": {
     "height": 60,
     "pixelRatio": 1,
     "width": 120,
-    "x": 2535,
-    "y": 1098
+    "x": 1098,
+    "y": 1489
   },
-  "F - Ports/F20": {
+  "F20": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 2602,
-    "y": 418
+    "x": 2765,
+    "y": 918
   },
-  "F - Ports/F53.2": {
+  "F53.2": {
     "height": 400,
     "pixelRatio": 1,
     "width": 300,
     "x": 1552,
     "y": 1207
   },
-  "F - Ports/F60": {
+  "F60": {
     "height": 93,
     "pixelRatio": 1,
     "width": 66,
-    "x": 2833,
-    "y": 458
+    "x": 2438,
+    "y": 1270
   },
-  "J - Nature of the Seabed/J13.2": {
+  "J13.2": {
     "height": 6,
     "pixelRatio": 1,
     "width": 18,
-    "x": 2874,
-    "y": 1102
+    "x": 2509,
+    "y": 1152
   },
-  "J - Nature of the Seabed/J13.2_pattern": {
+  "J13.2_pattern": {
     "height": 16,
     "pixelRatio": 1,
     "width": 32,
-    "x": 3103,
-    "y": 613
+    "x": 2400,
+    "y": 849
   },
-  "J - Nature of the Seabed/J13.4": {
+  "J13.4": {
     "height": 18,
     "pixelRatio": 1,
     "width": 19,
-    "x": 2934,
-    "y": 1052
+    "x": 2895,
+    "y": 1727
   },
-  "J - Nature of the Seabed/J13.4_pattern": {
+  "J13.4_pattern": {
     "height": 34,
     "pixelRatio": 1,
     "width": 35,
-    "x": 2907,
-    "y": 1192
+    "x": 2643,
+    "y": 1452
   },
-  "J - Nature of the Seabed/J14": {
+  "J14": {
     "height": 118,
     "pixelRatio": 1,
     "width": 439,
     "x": 2356,
     "y": 0
   },
-  "J - Nature of the Seabed/J14_pattern": {
+  "J14_pattern": {
     "height": 249,
     "pixelRatio": 1,
     "width": 808,
     "x": 744,
     "y": 1570
   },
-  "J - Nature of the Seabed/J15": {
+  "J15": {
     "height": 248,
     "pixelRatio": 1,
     "width": 253,
     "x": 1852,
-    "y": 1414
+    "y": 1169
   },
-  "J - Nature of the Seabed/J20_pattern": {
+  "J20_pattern": {
     "height": 49,
     "pixelRatio": 1,
     "width": 50,
-    "x": 3219,
-    "y": 330
+    "x": 2016,
+    "y": 315
   },
-  "J - Nature of the Seabed/J21": {
+  "J21": {
     "height": 12,
     "pixelRatio": 1,
     "width": 29,
-    "x": 3163,
-    "y": 568
+    "x": 2655,
+    "y": 895
   },
-  "J - Nature of the Seabed/J22": {
+  "J22": {
     "height": 14,
     "pixelRatio": 1,
     "width": 35,
-    "x": 3026,
-    "y": 200
+    "x": 2765,
+    "y": 958
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K11": {
+  "K11": {
     "height": 88,
     "pixelRatio": 1,
     "width": 88,
-    "x": 2846,
-    "y": 263
+    "x": 2609,
+    "y": 526
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K12": {
+  "K12": {
     "height": 88,
     "pixelRatio": 1,
     "width": 88,
-    "x": 2659,
-    "y": 1067
+    "x": 2423,
+    "y": 1494
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K13": {
+  "K13": {
     "height": 88,
     "pixelRatio": 1,
     "width": 88,
-    "x": 2755,
-    "y": 638
+    "x": 2423,
+    "y": 1582
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K24": {
+  "K24": {
     "height": 140,
     "pixelRatio": 1,
     "width": 140,
-    "x": 2360,
-    "y": 298
+    "x": 2052,
+    "y": 1757
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K28": {
+  "K28": {
     "height": 88,
     "pixelRatio": 1,
     "width": 124,
-    "x": 2535,
-    "y": 1010
+    "x": 2135,
+    "y": 1050
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K29": {
+  "K29": {
     "height": 54,
     "pixelRatio": 1,
     "width": 109,
-    "x": 1098,
+    "x": 1413,
     "y": 1489
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K3": {
+  "K3": {
     "height": 102,
     "pixelRatio": 1,
     "width": 102,
-    "x": 2619,
-    "y": 849
+    "x": 2487,
+    "y": 625
   },
-  "K - Rocks, Wrecks, Obstructions, Aquaculture/K48.1": {
+  "K48.1": {
     "height": 158,
     "pixelRatio": 1,
     "width": 160,
     "x": 1856,
     "y": 200
   },
-  "L - Offshore Installations/L10": {
+  "L10": {
     "height": 71,
     "pixelRatio": 1,
     "width": 71,
-    "x": 1368,
-    "y": 1489
+    "x": 2498,
+    "y": 1363
   },
-  "L - Offshore Installations/L16": {
+  "L16": {
     "height": 54,
     "pixelRatio": 1,
     "width": 144,
     "x": 580,
     "y": 1570
   },
-  "L - Offshore Installations/L17": {
+  "L17": {
     "height": 71,
     "pixelRatio": 1,
     "width": 71,
-    "x": 1439,
-    "y": 1489
+    "x": 2504,
+    "y": 1219
   },
-  "L - Offshore Installations/L30.1": {
+  "L30.1": {
     "height": 29,
     "pixelRatio": 1,
     "width": 73,
-    "x": 2643,
-    "y": 538
+    "x": 2328,
+    "y": 1718
   },
-  "L - Offshore Installations/L40": {
+  "L40": {
     "height": 20,
     "pixelRatio": 1,
     "width": 69,
-    "x": 1283,
-    "y": 1550
+    "x": 2192,
+    "y": 1906
   },
-  "L - Offshore Installations/L5.1": {
+  "L5.1": {
     "height": 108,
     "pixelRatio": 1,
     "width": 84,
-    "x": 2721,
-    "y": 793
+    "x": 2609,
+    "y": 418
   },
-  "L - Offshore Installations/L5.2": {
+  "L5.2": {
     "height": 150,
     "pixelRatio": 1,
     "width": 150,
-    "x": 2852,
-    "y": 1889
+    "x": 2540,
+    "y": 118
   },
-  "L - Offshore Installations/L6": {
+  "L6": {
     "height": 150,
     "pixelRatio": 1,
     "width": 150,
-    "x": 3002,
-    "y": 1889
+    "x": 2540,
+    "y": 268
   },
-  "M - Tracks, Routes/M10": {
+  "M10": {
     "height": 200,
     "pixelRatio": 1,
     "width": 500,
     "x": 744,
     "y": 1819
   },
-  "M - Tracks, Routes/M11": {
+  "M11": {
     "height": 200,
     "pixelRatio": 1,
     "width": 500,
     "x": 1856,
     "y": 0
   },
-  "M - Tracks, Routes/M40": {
-    "height": 60,
+  "M14": {
+    "height": 17,
     "pixelRatio": 1,
-    "width": 30,
-    "x": 2726,
-    "y": 358
+    "width": 49,
+    "x": 2735,
+    "y": 1247
   },
-  "M - Tracks, Routes/M40.1": {
+  "M40.1": {
     "height": 141,
     "pixelRatio": 1,
     "width": 265,
-    "x": 1852,
-    "y": 1862
+    "x": 2135,
+    "y": 729
   },
-  "M - Tracks, Routes/M40.2": {
+  "M40.2": {
     "height": 141,
     "pixelRatio": 1,
     "width": 265,
-    "x": 2852,
-    "y": 1568
+    "x": 2344,
+    "y": 484
   },
-  "N - Areas, Limits/N10": {
+  "N10": {
     "height": 120,
     "pixelRatio": 1,
     "width": 120,
-    "x": 2535,
-    "y": 729
+    "x": 2497,
+    "y": 1842
   },
-  "N - Areas, Limits/N11.1": {
+  "N11.1": {
     "height": 400,
     "pixelRatio": 1,
     "width": 300,
     "x": 1835,
     "y": 769
   },
-  "N - Areas, Limits/N12": {
-    "height": 180,
-    "pixelRatio": 1,
-    "width": 180,
-    "x": 3032,
-    "y": 1709
-  },
-  "N - Areas, Limits/N12_line": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2780,
-    "y": 1286
-  },
-  "N - Areas, Limits/N13": {
-    "height": 124,
-    "pixelRatio": 1,
-    "width": 124,
-    "x": 2602,
-    "y": 294
-  },
-  "N - Areas, Limits/N13_line": {
-    "height": 90,
-    "pixelRatio": 1,
-    "width": 50,
-    "x": 3105,
-    "y": 0
-  },
-  "N - Areas, Limits/N2.1": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3223,
-    "y": 500
-  },
-  "N - Areas, Limits/N2.2": {
-    "height": 437,
-    "pixelRatio": 1,
-    "width": 437,
-    "x": 1098,
-    "y": 1052
-  },
-  "N - Areas, Limits/N20": {
-    "height": 120,
-    "pixelRatio": 1,
-    "width": 120,
-    "x": 2613,
-    "y": 573
-  },
-  "N - Areas, Limits/N21": {
-    "height": 140,
-    "pixelRatio": 1,
-    "width": 140,
-    "x": 2360,
-    "y": 438
-  },
-  "N - Areas, Limits/N22": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 2795,
-    "y": 86
-  },
-  "P - Lights/P1.major": {
-    "height": 64,
-    "pixelRatio": 1,
-    "width": 67,
-    "x": 2747,
-    "y": 1049
-  },
-  "P - Lights/P1.minor": {
-    "height": 64,
-    "pixelRatio": 1,
-    "width": 67,
-    "x": 2720,
-    "y": 1222
-  },
-  "P - Lights/P10.1_sdf": {
-    "sdf":true,
-    "height": 400,
-    "pixelRatio": 1,
-    "width": 300,
-    "x": 1552,
-    "y": 1607
-  },
-  "Q - Buoys, Beacons/BNIWR/alignment": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2785,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/BNIWR/berthing_permitted": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 1244,
-    "y": 1819
-  },
-  "Q - Buoys, Beacons/BNIWR/center_channel": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2814,
-    "y": 1049
-  },
-  "Q - Buoys, Beacons/BNIWR/cross_river_to_port": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2823,
-    "y": 952
-  },
-  "Q - Buoys, Beacons/BNIWR/cross_river_to_starboard": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2877,
-    "y": 872
-  },
-  "Q - Buoys, Beacons/BNIWR/isolated_danger": {
-    "height": 55,
-    "pixelRatio": 1,
-    "width": 28,
-    "x": 2843,
-    "y": 671
-  },
-  "Q - Buoys, Beacons/BNIWR/keep_to_mid-river": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2885,
-    "y": 791
-  },
-  "Q - Buoys, Beacons/BNIWR/keep_to_port_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2787,
-    "y": 1173
-  },
-  "Q - Buoys, Beacons/BNIWR/keep_to_starboard_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2845,
-    "y": 1109
-  },
-  "Q - Buoys, Beacons/BNIWR/left/alignment": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2874,
-    "y": 1012
-  },
-  "Q - Buoys, Beacons/BNIWR/left/berthing_permitted": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 1244,
-    "y": 1819
-  },
-  "Q - Buoys, Beacons/BNIWR/left/bridge": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/BNIWR/left/cross_river_to_port": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2937,
-    "y": 851
-  },
-  "Q - Buoys, Beacons/BNIWR/left/cross_river_to_starboard": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2945,
-    "y": 791
-  },
-  "Q - Buoys, Beacons/BNIWR/left/keep_to_mid-river": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2957,
-    "y": 671
-  },
-  "Q - Buoys, Beacons/BNIWR/left/keep_to_port_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2957,
-    "y": 731
-  },
-  "Q - Buoys, Beacons/BNIWR/left/keep_to_starboard_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2983,
-    "y": 591
-  },
-  "Q - Buoys, Beacons/BNIWR/left/limited_headroom": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 1852,
-    "y": 1662
-  },
-  "Q - Buoys, Beacons/BNIWR/left/navigate_along_bank": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2983,
-    "y": 591
-  },
-  "Q - Buoys, Beacons/BNIWR/left/no_anchoring": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2052,
-    "y": 1662
-  },
-  "Q - Buoys, Beacons/BNIWR/left/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/BNIWR/left/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/BNIWR/left/reduce_speed": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2105,
-    "y": 1414
-  },
-  "Q - Buoys, Beacons/BNIWR/left/traffic_between_margins": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3039,
-    "y": 403
-  },
-  "Q - Buoys, Beacons/BNIWR/limited_headroom": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2120,
-    "y": 1169
-  },
-  "Q - Buoys, Beacons/BNIWR/no_anchoring": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2135,
-    "y": 768
-  },
-  "Q - Buoys, Beacons/BNIWR/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/BNIWR/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/BNIWR/reduce_speed": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2135,
-    "y": 968
-  },
-  "Q - Buoys, Beacons/BNIWR/right/alignment": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3043,
-    "y": 298
-  },
-  "Q - Buoys, Beacons/BNIWR/right/berthing_permitted": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 1244,
-    "y": 1819
-  },
-  "Q - Buoys, Beacons/BNIWR/right/bridge": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/BNIWR/right/cross_river_to_port": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3074,
-    "y": 200
-  },
-  "Q - Buoys, Beacons/BNIWR/right/cross_river_to_starboard": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3106,
-    "y": 90
-  },
-  "Q - Buoys, Beacons/BNIWR/right/keep_to_mid-river": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3155,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/BNIWR/right/keep_to_port_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2840,
-    "y": 1233
-  },
-  "Q - Buoys, Beacons/BNIWR/right/keep_to_starboard_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2847,
-    "y": 1169
-  },
-  "Q - Buoys, Beacons/BNIWR/right/limited_headroom": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2252,
-    "y": 1614
-  },
-  "Q - Buoys, Beacons/BNIWR/right/navigate_along_bank": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2847,
-    "y": 1169
-  },
-  "Q - Buoys, Beacons/BNIWR/right/no_anchoring": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2252,
-    "y": 1814
-  },
-  "Q - Buoys, Beacons/BNIWR/right/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/BNIWR/right/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/BNIWR/right/reduce_speed": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2305,
-    "y": 1369
-  },
-  "Q - Buoys, Beacons/BNIWR/right/traffic_between_margins": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2840,
-    "y": 1293
-  },
-  "Q - Buoys, Beacons/BNIWR/secondary_waterway_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1072
-  },
-  "Q - Buoys, Beacons/BNIWR/secondary_waterway_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2934,
-    "y": 992
-  },
-  "Q - Buoys, Beacons/BNIWR/traffic_between_margins": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2943,
-    "y": 911
-  },
-  "Q - Buoys, Beacons/CEVNI/anchoring_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2997,
-    "y": 851
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_lateral_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3005,
-    "y": 791
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_lateral_limits": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2833,
-    "y": 551
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_1": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3017,
-    "y": 651
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_2": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3043,
-    "y": 571
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_3": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3017,
-    "y": 711
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_non_pushing_1": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3093,
-    "y": 463
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_non_pushing_2": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3099,
-    "y": 358
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_non_pushing_3": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3103,
-    "y": 260
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_pushing_1": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3134,
-    "y": 150
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_pushing_2": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3166,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_marked_pushing_3": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3215,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2900,
-    "y": 1229
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_rafting_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3005,
-    "y": 791
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_unmarked": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2900,
-    "y": 1289
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_unmarked_non_pushing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2907,
-    "y": 1132
-  },
-  "Q - Buoys, Beacons/CEVNI/berthing_unmarked_pushing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1052
-  },
-  "Q - Buoys, Beacons/CEVNI/channel_distance_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2805,
-    "y": 812
-  },
-  "Q - Buoys, Beacons/CEVNI/channel_distance_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2899,
-    "y": 451
-  },
-  "Q - Buoys, Beacons/CEVNI/channel_one_way": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1529
-  },
-  "Q - Buoys, Beacons/CEVNI/channel_two_way": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2994,
-    "y": 971
-  },
-  "Q - Buoys, Beacons/CEVNI/closed_area": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3003,
-    "y": 911
-  },
-  "Q - Buoys, Beacons/CEVNI/cross_to_port": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2763,
-    "y": 458
-  },
-  "Q - Buoys, Beacons/CEVNI/cross_to_starboard": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2923,
-    "y": 351
-  },
-  "Q - Buoys, Beacons/CEVNI/drinking_water": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3057,
-    "y": 851
-  },
-  "Q - Buoys, Beacons/CEVNI/entry_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2934,
-    "y": 263
-  },
-  "Q - Buoys, Beacons/CEVNI/ferry_independent": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2946,
-    "y": 158
-  },
-  "Q - Buoys, Beacons/CEVNI/ferry_non_independent": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2843,
-    "y": 611
-  },
-  "Q - Buoys, Beacons/CEVNI/give_way_crossing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3065,
-    "y": 771
-  },
-  "Q - Buoys, Beacons/CEVNI/give_way_junction": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3077,
-    "y": 631
-  },
-  "Q - Buoys, Beacons/CEVNI/high_speeds_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3077,
-    "y": 691
-  },
-  "Q - Buoys, Beacons/CEVNI/keep_lookout": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3103,
-    "y": 523
-  },
-  "Q - Buoys, Beacons/CEVNI/keep_to_port": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2913,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/CEVNI/keep_to_starboard": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2817,
-    "y": 872
-  },
-  "Q - Buoys, Beacons/CEVNI/launching_beaching_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3153,
-    "y": 418
-  },
-  "Q - Buoys, Beacons/CEVNI/limited_depth": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3159,
-    "y": 320
-  },
-  "Q - Buoys, Beacons/CEVNI/limited_headroom": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3163,
-    "y": 210
-  },
-  "Q - Buoys, Beacons/CEVNI/limited_width": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3194,
-    "y": 120
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_ahead_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3226,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_ahead_left_secondary_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3275,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_ahead_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1349
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_ahead_right_secondary_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2960,
-    "y": 1192
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_crossing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2967,
-    "y": 1112
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_junction": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3025,
-    "y": 1031
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_left_secondary_ahead": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3054,
-    "y": 971
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_left_secondary_ahead_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3063,
-    "y": 911
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_left_secondary_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3117,
-    "y": 831
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_right_secondary_ahead": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3125,
-    "y": 751
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_right_secondary_ahead_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2960,
-    "y": 1252
-  },
-  "Q - Buoys, Beacons/CEVNI/main_waterway_right_secondary_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3137,
-    "y": 583
-  },
-  "Q - Buoys, Beacons/CEVNI/make_radio_contact": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3163,
-    "y": 478
-  },
-  "Q - Buoys, Beacons/CEVNI/mooring_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3213,
-    "y": 380
-  },
-  "Q - Buoys, Beacons/CEVNI/motor_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3219,
-    "y": 270
-  },
-  "Q - Buoys, Beacons/CEVNI/move_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 3025,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/CEVNI/move_to_port": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3025,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/CEVNI/move_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2877,
-    "y": 671
-  },
-  "Q - Buoys, Beacons/CEVNI/move_to_starboard": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2923,
-    "y": 591
-  },
-  "Q - Buoys, Beacons/CEVNI/navigation_restrictions": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3223,
-    "y": 180
-  },
-  "Q - Buoys, Beacons/CEVNI/no_anchoring": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3254,
-    "y": 120
-  },
-  "Q - Buoys, Beacons/CEVNI/no_berthing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3286,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/CEVNI/no_berthing_lateral_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3335,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/CEVNI/no_convoy_overtaking": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2973,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/CEVNI/no_convoy_passing": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2979,
-    "y": 431
-  },
-  "Q - Buoys, Beacons/CEVNI/no_entry": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2877,
-    "y": 731
-  },
-  "Q - Buoys, Beacons/CEVNI/no_high_speeds": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3137,
-    "y": 643
-  },
-  "Q - Buoys, Beacons/CEVNI/no_launching_beaching": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1409
-  },
-  "Q - Buoys, Beacons/CEVNI/no_mooring": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1469
-  },
-  "Q - Buoys, Beacons/CEVNI/no_motor_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1312
-  },
-  "Q - Buoys, Beacons/CEVNI/no_overtaking": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2983,
-    "y": 323
-  },
-  "Q - Buoys, Beacons/CEVNI/no_passage_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3020,
-    "y": 1172
-  },
-  "Q - Buoys, Beacons/CEVNI/no_passage_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3020,
-    "y": 1232
-  },
-  "Q - Buoys, Beacons/CEVNI/no_passing": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3014,
-    "y": 218
-  },
-  "Q - Buoys, Beacons/CEVNI/no_sailboards": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3027,
-    "y": 1091
-  },
-  "Q - Buoys, Beacons/CEVNI/no_sailing_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3085,
-    "y": 1031
-  },
-  "Q - Buoys, Beacons/CEVNI/no_sport_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3114,
-    "y": 971
-  },
-  "Q - Buoys, Beacons/CEVNI/no_turning": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3123,
-    "y": 891
-  },
-  "Q - Buoys, Beacons/CEVNI/no_unpowered_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3177,
-    "y": 811
-  },
-  "Q - Buoys, Beacons/CEVNI/no_wash": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3185,
-    "y": 703
-  },
-  "Q - Buoys, Beacons/CEVNI/no_waterbikes": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3197,
-    "y": 538
-  },
-  "Q - Buoys, Beacons/CEVNI/no_waterskiing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3223,
-    "y": 440
-  },
-  "Q - Buoys, Beacons/CEVNI/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3273,
-    "y": 330
-  },
-  "Q - Buoys, Beacons/CEVNI/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3279,
-    "y": 240
-  },
-  "Q - Buoys, Beacons/CEVNI/overhead_cable": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3283,
-    "y": 180
-  },
-  "Q - Buoys, Beacons/CEVNI/proceed_to_left": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2946,
-    "y": 218
-  },
-  "Q - Buoys, Beacons/CEVNI/proceed_to_right": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2016,
-    "y": 315
-  },
-  "Q - Buoys, Beacons/CEVNI/prohibition_ends": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3314,
-    "y": 120
-  },
-  "Q - Buoys, Beacons/CEVNI/radio_information": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3346,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/CEVNI/sailboards_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3395,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/CEVNI/sailing_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3197,
-    "y": 598
-  },
-  "Q - Buoys, Beacons/CEVNI/secondary_waterway_crossing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1372
-  },
-  "Q - Buoys, Beacons/CEVNI/secondary_waterway_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1432
-  },
-  "Q - Buoys, Beacons/CEVNI/secondary_waterway_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1492
-  },
-  "Q - Buoys, Beacons/CEVNI/sound_horn": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3025,
-    "y": 1292
-  },
-  "Q - Buoys, Beacons/CEVNI/speed_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3080,
-    "y": 1151
-  },
-  "Q - Buoys, Beacons/CEVNI/sport_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3087,
-    "y": 1091
-  },
-  "Q - Buoys, Beacons/CEVNI/stop": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3145,
-    "y": 1031
-  },
-  "Q - Buoys, Beacons/CEVNI/telephone": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3174,
-    "y": 951
-  },
-  "Q - Buoys, Beacons/CEVNI/turning_area": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3183,
-    "y": 871
-  },
-  "Q - Buoys, Beacons/CEVNI/unpowered_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3080,
-    "y": 1211
-  },
-  "Q - Buoys, Beacons/CEVNI/vehicle_loading_berth": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3237,
-    "y": 763
-  },
-  "Q - Buoys, Beacons/CEVNI/waterbikes_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3245,
-    "y": 658
-  },
-  "Q - Buoys, Beacons/CEVNI/waterskiing_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3257,
-    "y": 500
-  },
-  "Q - Buoys, Beacons/CEVNI/weir": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 3026,
-    "y": 140
-  },
-  "Q - Buoys, Beacons/PPWBC/center_channel": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2814,
-    "y": 1049
-  },
-  "Q - Buoys, Beacons/PPWBC/isolated_danger": {
-    "height": 55,
-    "pixelRatio": 1,
-    "width": 28,
-    "x": 2843,
-    "y": 671
-  },
-  "Q - Buoys, Beacons/PPWBC/left/bifucation": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/PPWBC/left/bridge": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/PPWBC/left/center_channel": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2814,
-    "y": 1049
-  },
-  "Q - Buoys, Beacons/PPWBC/left/change_bank": {
-    "height": 42,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 3197,
-    "y": 658
-  },
-  "Q - Buoys, Beacons/PPWBC/left/cross_river_to_port": {
-    "height": 42,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 3197,
-    "y": 658
-  },
-  "Q - Buoys, Beacons/PPWBC/left/cross_river_to_starboard": {
-    "height": 42,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 3197,
-    "y": 658
-  },
-  "Q - Buoys, Beacons/PPWBC/left/keep_to_margin": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2747,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/PPWBC/left/keep_to_mid-river": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2823,
-    "y": 1012
-  },
-  "Q - Buoys, Beacons/PPWBC/left/keep_to_port": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2747,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/PPWBC/left/keep_to_port_margin": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2747,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/PPWBC/left/keep_to_starboard": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2747,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/PPWBC/left/keep_to_starboard_margin": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2747,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/PPWBC/left/main_waterway_left_secondary_ahead_right": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/PPWBC/left/main_waterway_right_secondary_ahead_left": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/PPWBC/left/navigate_mid_river": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2823,
-    "y": 1012
-  },
-  "Q - Buoys, Beacons/PPWBC/left/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/PPWBC/left/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/PPWBC/left/secondary_waterway_left": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/PPWBC/left/secondary_waterway_right": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/PPWBC/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/PPWBC/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/PPWBC/right/bifucation": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3163,
-    "y": 538
-  },
-  "Q - Buoys, Beacons/PPWBC/right/bridge": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/PPWBC/right/center_channel": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2814,
-    "y": 1049
-  },
-  "Q - Buoys, Beacons/PPWBC/right/change_bank": {
-    "height": 42,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 3137,
-    "y": 703
-  },
-  "Q - Buoys, Beacons/PPWBC/right/cross_river_to_port": {
-    "height": 42,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 3137,
-    "y": 703
-  },
-  "Q - Buoys, Beacons/PPWBC/right/cross_river_to_starboard": {
-    "height": 42,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 3137,
-    "y": 703
-  },
-  "Q - Buoys, Beacons/PPWBC/right/keep_to_margin": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3279,
-    "y": 300
-  },
-  "Q - Buoys, Beacons/PPWBC/right/keep_to_mid-river": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3103,
-    "y": 583
-  },
-  "Q - Buoys, Beacons/PPWBC/right/keep_to_port": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3279,
-    "y": 300
-  },
-  "Q - Buoys, Beacons/PPWBC/right/keep_to_port_margin": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3279,
-    "y": 300
-  },
-  "Q - Buoys, Beacons/PPWBC/right/keep_to_starboard": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3279,
-    "y": 300
-  },
-  "Q - Buoys, Beacons/PPWBC/right/keep_to_starboard_margin": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3279,
-    "y": 300
-  },
-  "Q - Buoys, Beacons/PPWBC/right/main_waterway_left_secondary_ahead_right": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/PPWBC/right/main_waterway_right_secondary_ahead_left": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/PPWBC/right/navigate_mid_river": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3103,
-    "y": 583
-  },
-  "Q - Buoys, Beacons/PPWBC/right/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/PPWBC/right/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3033,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/PPWBC/right/secondary_waterway_left": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3163,
-    "y": 538
-  },
-  "Q - Buoys, Beacons/PPWBC/right/secondary_waterway_right": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 30,
-    "x": 3163,
-    "y": 538
-  },
-  "Q - Buoys, Beacons/Q100_sdf": {
-    "sdf": true,
-    "height": 58,
-    "pixelRatio": 1,
-    "width": 85,
-    "x": 2925,
-    "y": 100
-  },
-  "Q - Buoys, Beacons/Q101_sdf": {
-    "sdf": true,
-    "height": 245,
-    "pixelRatio": 1,
-    "width": 268,
-    "x": 1852,
-    "y": 1169
-  },
-  "Q - Buoys, Beacons/Q110_sdf": {
-    "sdf": true,
-    "height": 86,
-    "pixelRatio": 1,
-    "width": 72,
-    "x": 2745,
-    "y": 901
-  },
-  "Q - Buoys, Beacons/Q111_sdf": {
-    "sdf": true,
-    "height": 86,
-    "pixelRatio": 1,
-    "width": 72,
-    "x": 2805,
-    "y": 726
-  },
-  "Q - Buoys, Beacons/Q126": {
-    "height": 438,
-    "pixelRatio": 1,
-    "width": 288,
-    "x": 1488,
-    "y": 369
-  },
-  "Q - Buoys, Beacons/Q20_sdf": {
-    "sdf": true,
-    "height": 68,
-    "pixelRatio": 1,
-    "width": 84,
-    "x": 2560,
-    "y": 1969
-  },
-  "Q - Buoys, Beacons/Q21_sdf": {
-    "sdf": true,
-    "height": 61,
-    "pixelRatio": 1,
-    "width": 85,
-    "x": 1283,
-    "y": 1489
-  },
-  "Q - Buoys, Beacons/Q22_sdf": {
-    "sdf": true,
-    "height": 62,
-    "pixelRatio": 1,
-    "width": 78,
-    "x": 2745,
-    "y": 987
-  },
-  "Q - Buoys, Beacons/Q23_sdf": {
-    "sdf": true,
-    "height": 116,
-    "pixelRatio": 1,
-    "width": 86,
-    "x": 2659,
-    "y": 951
-  },
-  "Q - Buoys, Beacons/Q24_sdf": {
-    "sdf": true,
-    "height": 115,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2016,
-    "y": 200
-  },
-  "Q - Buoys, Beacons/Q25_sdf": {
-    "sdf": true,
-    "height": 55,
-    "pixelRatio": 1,
-    "width": 115,
-    "x": 2732,
-    "y": 1968
-  },
-  "Q - Buoys, Beacons/Q26_sdf": {
-    "sdf": true,
-    "height": 43,
-    "pixelRatio": 1,
-    "width": 144,
-    "x": 2305,
-    "y": 1569
-  },
-  "Q - Buoys, Beacons/Q31_sdf": {
-    "sdf": true,
-    "height": 57,
-    "pixelRatio": 1,
-    "width": 108,
-    "x": 2452,
-    "y": 1969
-  },
-  "Q - Buoys, Beacons/Q40_sdf": {
-    "sdf": true,
-    "height": 72,
-    "pixelRatio": 1,
-    "width": 76,
-    "x": 1207,
-    "y": 1489
-  },
-  "Q - Buoys, Beacons/Q81_sdf": {
-    "sdf": true,
-    "height": 86,
-    "pixelRatio": 1,
-    "width": 41,
-    "x": 2795,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/Q90_sdf": {
-    "sdf": true,
-    "height": 76,
-    "pixelRatio": 1,
-    "width": 21,
-    "x": 1510,
-    "y": 1489
-  },
-  "Q - Buoys, Beacons/RIWR/check_point": {
-    "height": 284,
-    "pixelRatio": 1,
-    "width": 284,
-    "x": 2076,
-    "y": 200
-  },
-  "Q - Buoys, Beacons/RIWR/crossing": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2320,
-    "y": 1168
-  },
-  "Q - Buoys, Beacons/RIWR/keep_lookout": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2335,
-    "y": 768
-  },
-  "Q - Buoys, Beacons/RIWR/limited_headroom": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2335,
-    "y": 968
-  },
-  "Q - Buoys, Beacons/RIWR/no_anchoring": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2452,
-    "y": 1569
-  },
-  "Q - Buoys, Beacons/RIWR/no_convoy_passing_overtaking": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2505,
-    "y": 1368
-  },
-  "Q - Buoys, Beacons/RIWR/no_passing_overtaking": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2520,
-    "y": 1168
-  },
-  "Q - Buoys, Beacons/RIWR/no_small_craft": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2452,
-    "y": 1769
-  },
-  "Q - Buoys, Beacons/RIWR/no_wash": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2652,
-    "y": 1568
-  },
-  "Q - Buoys, Beacons/RIWR/speed_limit": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2705,
-    "y": 1368
-  },
-  "Q - Buoys, Beacons/RIWR/turning_area": {
-    "height": 284,
-    "pixelRatio": 1,
-    "width": 284,
-    "x": 2076,
-    "y": 484
-  },
-  "Q - Buoys, Beacons/generic/alignment": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2785,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/generic/anchoring_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2997,
-    "y": 851
-  },
-  "Q - Buoys, Beacons/generic/berthing_lateral_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3005,
-    "y": 791
-  },
-  "Q - Buoys, Beacons/generic/berthing_lateral_limits": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2833,
-    "y": 551
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_1": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3017,
-    "y": 651
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_2": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3043,
-    "y": 571
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_3": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3017,
-    "y": 711
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_non_pushing_1": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3093,
-    "y": 463
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_non_pushing_2": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3099,
-    "y": 358
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_non_pushing_3": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3103,
-    "y": 260
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_pushing_1": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3134,
-    "y": 150
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_pushing_2": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3166,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/generic/berthing_marked_pushing_3": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3215,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/generic/berthing_permitted": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 1244,
-    "y": 1819
-  },
-  "Q - Buoys, Beacons/generic/berthing_rafting_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3005,
-    "y": 791
-  },
-  "Q - Buoys, Beacons/generic/berthing_unmarked": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2900,
-    "y": 1289
-  },
-  "Q - Buoys, Beacons/generic/berthing_unmarked_non_pushing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2907,
-    "y": 1132
-  },
-  "Q - Buoys, Beacons/generic/berthing_unmarked_pushing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1052
-  },
-  "Q - Buoys, Beacons/generic/bifucation": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2613,
-    "y": 693
-  },
-  "Q - Buoys, Beacons/generic/bridge": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2883,
-    "y": 932
-  },
-  "Q - Buoys, Beacons/generic/center_channel": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2814,
-    "y": 1049
-  },
-  "Q - Buoys, Beacons/generic/change_bank": {
-    "height": 42,
-    "pixelRatio": 1,
-    "width": 42,
-    "x": 3197,
-    "y": 658
-  },
-  "Q - Buoys, Beacons/generic/channel_distance_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2805,
-    "y": 812
-  },
-  "Q - Buoys, Beacons/generic/channel_distance_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2899,
-    "y": 451
-  },
-  "Q - Buoys, Beacons/generic/channel_one_way": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1529
-  },
-  "Q - Buoys, Beacons/generic/channel_two_way": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2994,
-    "y": 971
-  },
-  "Q - Buoys, Beacons/generic/check_point": {
-    "height": 284,
-    "pixelRatio": 1,
-    "width": 284,
-    "x": 2076,
-    "y": 200
-  },
-  "Q - Buoys, Beacons/generic/closed_area": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3003,
-    "y": 911
-  },
-  "Q - Buoys, Beacons/generic/cross_river_to_port": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2823,
-    "y": 952
-  },
-  "Q - Buoys, Beacons/generic/cross_river_to_starboard": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2877,
-    "y": 872
-  },
-  "Q - Buoys, Beacons/generic/cross_to_port": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2763,
-    "y": 458
-  },
-  "Q - Buoys, Beacons/generic/cross_to_starboard": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2923,
-    "y": 351
-  },
-  "Q - Buoys, Beacons/generic/crossing": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2320,
-    "y": 1168
-  },
-  "Q - Buoys, Beacons/generic/drinking_water": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3057,
-    "y": 851
-  },
-  "Q - Buoys, Beacons/generic/entry_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2934,
-    "y": 263
-  },
-  "Q - Buoys, Beacons/generic/ferry_independent": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2946,
-    "y": 158
-  },
-  "Q - Buoys, Beacons/generic/ferry_non_independent": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2843,
-    "y": 611
-  },
-  "Q - Buoys, Beacons/generic/give_way_crossing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3065,
-    "y": 771
-  },
-  "Q - Buoys, Beacons/generic/give_way_junction": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3077,
-    "y": 631
-  },
-  "Q - Buoys, Beacons/generic/high_speeds_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3077,
-    "y": 691
-  },
-  "Q - Buoys, Beacons/generic/isolated_danger": {
-    "height": 55,
-    "pixelRatio": 1,
-    "width": 28,
-    "x": 2843,
-    "y": 671
-  },
-  "Q - Buoys, Beacons/generic/keep_lookout": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3103,
-    "y": 523
-  },
-  "Q - Buoys, Beacons/generic/keep_to_margin": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2747,
-    "y": 1113
-  },
-  "Q - Buoys, Beacons/generic/keep_to_mid-river": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2885,
-    "y": 791
-  },
-  "Q - Buoys, Beacons/generic/keep_to_port": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2913,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/generic/keep_to_port_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2787,
-    "y": 1173
-  },
-  "Q - Buoys, Beacons/generic/keep_to_starboard": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2817,
-    "y": 872
-  },
-  "Q - Buoys, Beacons/generic/keep_to_starboard_margin": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2845,
-    "y": 1109
-  },
-  "Q - Buoys, Beacons/generic/launching_beaching_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3153,
-    "y": 418
-  },
-  "Q - Buoys, Beacons/generic/limited_depth": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3159,
-    "y": 320
-  },
-  "Q - Buoys, Beacons/generic/limited_headroom": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3163,
-    "y": 210
-  },
-  "Q - Buoys, Beacons/generic/limited_width": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3194,
-    "y": 120
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_ahead_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3226,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_ahead_left_secondary_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3275,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_ahead_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1349
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_ahead_right_secondary_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2960,
-    "y": 1192
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_crossing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2967,
-    "y": 1112
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_junction": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3025,
-    "y": 1031
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_left_secondary_ahead": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3054,
-    "y": 971
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_left_secondary_ahead_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3063,
-    "y": 911
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_left_secondary_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3117,
-    "y": 831
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_right_secondary_ahead": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3125,
-    "y": 751
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_right_secondary_ahead_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2960,
-    "y": 1252
-  },
-  "Q - Buoys, Beacons/generic/main_waterway_right_secondary_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3137,
-    "y": 583
-  },
-  "Q - Buoys, Beacons/generic/make_radio_contact": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3163,
-    "y": 478
-  },
-  "Q - Buoys, Beacons/generic/mooring_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3213,
-    "y": 380
-  },
-  "Q - Buoys, Beacons/generic/motor_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3219,
-    "y": 270
-  },
-  "Q - Buoys, Beacons/generic/move_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 3025,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/generic/move_to_port": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3025,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/generic/move_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2877,
-    "y": 671
-  },
-  "Q - Buoys, Beacons/generic/move_to_starboard": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2923,
-    "y": 591
-  },
-  "Q - Buoys, Beacons/generic/navigate_mid_river": {
-    "height": 34,
-    "pixelRatio": 1,
-    "width": 36,
-    "x": 2823,
-    "y": 1012
-  },
-  "Q - Buoys, Beacons/generic/navigation_restrictions": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3223,
-    "y": 180
-  },
-  "Q - Buoys, Beacons/generic/no_anchoring": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3254,
-    "y": 120
-  },
-  "Q - Buoys, Beacons/generic/no_berthing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3286,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/generic/no_berthing_lateral_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3335,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/generic/no_convoy_overtaking": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2973,
-    "y": 511
-  },
-  "Q - Buoys, Beacons/generic/no_convoy_passing": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2979,
-    "y": 431
-  },
-  "Q - Buoys, Beacons/generic/no_convoy_passing_overtaking": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2505,
-    "y": 1368
-  },
-  "Q - Buoys, Beacons/generic/no_entry": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 2877,
-    "y": 731
-  },
-  "Q - Buoys, Beacons/generic/no_high_speeds": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3137,
-    "y": 643
-  },
-  "Q - Buoys, Beacons/generic/no_launching_beaching": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1409
-  },
-  "Q - Buoys, Beacons/generic/no_mooring": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2905,
-    "y": 1469
-  },
-  "Q - Buoys, Beacons/generic/no_motor_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1312
-  },
-  "Q - Buoys, Beacons/generic/no_overtaking": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2983,
-    "y": 323
-  },
-  "Q - Buoys, Beacons/generic/no_passage_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3020,
-    "y": 1172
-  },
-  "Q - Buoys, Beacons/generic/no_passage_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3020,
-    "y": 1232
-  },
-  "Q - Buoys, Beacons/generic/no_passing": {
-    "height": 80,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3014,
-    "y": 218
-  },
-  "Q - Buoys, Beacons/generic/no_passing_overtaking": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2520,
-    "y": 1168
-  },
-  "Q - Buoys, Beacons/generic/no_sailboards": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3027,
-    "y": 1091
-  },
-  "Q - Buoys, Beacons/generic/no_sailing_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3085,
-    "y": 1031
-  },
-  "Q - Buoys, Beacons/generic/no_small_craft": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2452,
-    "y": 1769
-  },
-  "Q - Buoys, Beacons/generic/no_sport_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3114,
-    "y": 971
-  },
-  "Q - Buoys, Beacons/generic/no_turning": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3123,
-    "y": 891
-  },
-  "Q - Buoys, Beacons/generic/no_unpowered_craft": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3177,
-    "y": 811
-  },
-  "Q - Buoys, Beacons/generic/no_wash": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3185,
-    "y": 703
-  },
-  "Q - Buoys, Beacons/generic/no_waterbikes": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3197,
-    "y": 538
-  },
-  "Q - Buoys, Beacons/generic/no_waterskiing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3223,
-    "y": 440
-  },
-  "Q - Buoys, Beacons/generic/opening_to_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3273,
-    "y": 330
-  },
-  "Q - Buoys, Beacons/generic/opening_to_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3279,
-    "y": 240
-  },
-  "Q - Buoys, Beacons/generic/overhead_cable": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3283,
-    "y": 180
-  },
-  "Q - Buoys, Beacons/generic/proceed_to_left": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2946,
-    "y": 218
-  },
-  "Q - Buoys, Beacons/generic/proceed_to_right": {
-    "height": 30,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2016,
-    "y": 315
-  },
-  "Q - Buoys, Beacons/generic/prohibition_ends": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3314,
-    "y": 120
-  },
-  "Q - Buoys, Beacons/generic/radio_information": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3346,
-    "y": 60
-  },
-  "Q - Buoys, Beacons/generic/reduce_speed": {
-    "height": 200,
-    "pixelRatio": 1,
-    "width": 200,
-    "x": 2135,
-    "y": 968
-  },
-  "Q - Buoys, Beacons/generic/sailboards_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3395,
-    "y": 0
-  },
-  "Q - Buoys, Beacons/generic/sailing_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3197,
-    "y": 598
-  },
-  "Q - Buoys, Beacons/generic/secondary_waterway_crossing": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1372
-  },
-  "Q - Buoys, Beacons/generic/secondary_waterway_left": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1432
-  },
-  "Q - Buoys, Beacons/generic/secondary_waterway_right": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2965,
-    "y": 1492
-  },
-  "Q - Buoys, Beacons/generic/sound_horn": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3025,
-    "y": 1292
-  },
-  "Q - Buoys, Beacons/generic/speed_limit": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3080,
-    "y": 1151
-  },
-  "Q - Buoys, Beacons/generic/sport_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3087,
-    "y": 1091
-  },
-  "Q - Buoys, Beacons/generic/stop": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3145,
-    "y": 1031
-  },
-  "Q - Buoys, Beacons/generic/telephone": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3174,
-    "y": 951
-  },
-  "Q - Buoys, Beacons/generic/traffic_between_margins": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 2943,
-    "y": 911
-  },
-  "Q - Buoys, Beacons/generic/turning_area": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3183,
-    "y": 871
-  },
-  "Q - Buoys, Beacons/generic/unpowered_craft_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3080,
-    "y": 1211
-  },
-  "Q - Buoys, Beacons/generic/vehicle_loading_berth": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3237,
-    "y": 763
-  },
-  "Q - Buoys, Beacons/generic/waterbikes_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3245,
-    "y": 658
-  },
-  "Q - Buoys, Beacons/generic/waterskiing_permitted": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 60,
-    "x": 3257,
-    "y": 500
-  },
-  "Q - Buoys, Beacons/generic/weir": {
-    "height": 60,
-    "pixelRatio": 1,
-    "width": 80,
-    "x": 3026,
-    "y": 140
-  },
-  "R - Fog Signals/R1": {
-    "height": 104,
-    "pixelRatio": 1,
-    "width": 143,
-    "x": 2500,
-    "y": 469
-  },
-  "S - Radar, Radio, Satellite Navigation Systems/S1": {
+  "N12": {
     "height": 180,
     "pixelRatio": 1,
     "width": 180,
     "x": 2360,
     "y": 118
   },
-  "S - Radar, Radio, Satellite Navigation Systems/S10": {
+  "N12_line": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2745,
+    "y": 678
+  },
+  "N13": {
+    "height": 124,
+    "pixelRatio": 1,
+    "width": 124,
+    "x": 2411,
+    "y": 1718
+  },
+  "N13_line": {
+    "height": 90,
+    "pixelRatio": 1,
+    "width": 50,
+    "x": 2655,
+    "y": 805
+  },
+  "N2.1": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 2259,
+    "y": 1136
+  },
+  "N2.2": {
+    "height": 437,
+    "pixelRatio": 1,
+    "width": 437,
+    "x": 1098,
+    "y": 1052
+  },
+  "N20": {
+    "height": 120,
+    "pixelRatio": 1,
+    "width": 120,
+    "x": 2305,
+    "y": 1050
+  },
+  "N21": {
+    "height": 140,
+    "pixelRatio": 1,
+    "width": 140,
+    "x": 2052,
+    "y": 1897
+  },
+  "N22": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 30,
+    "x": 2874,
+    "y": 1098
+  },
+  "P1.major": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 67,
+    "x": 2540,
+    "y": 418
+  },
+  "P1.minor": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 67,
+    "x": 2689,
+    "y": 614
+  },
+  "P10.1_sdf": {
+    "height": 400,
+    "pixelRatio": 1,
+    "width": 300,
+    "x": 1552,
+    "y": 1607,
+    "sdf": true
+  },
+  "Q100_sdf": {
+    "height": 58,
+    "pixelRatio": 1,
+    "width": 85,
+    "x": 2498,
+    "y": 1434,
+    "sdf": true
+  },
+  "Q101_sdf": {
+    "height": 245,
+    "pixelRatio": 1,
+    "width": 268,
+    "x": 2076,
+    "y": 484,
+    "sdf": true
+  },
+  "Q110_sdf": {
+    "height": 86,
+    "pixelRatio": 1,
+    "width": 72,
+    "x": 2497,
+    "y": 1962,
+    "sdf": true
+  },
+  "Q111_sdf": {
+    "height": 86,
+    "pixelRatio": 1,
+    "width": 72,
+    "x": 2569,
+    "y": 1962,
+    "sdf": true
+  },
+  "Q126": {
+    "height": 438,
+    "pixelRatio": 1,
+    "width": 288,
+    "x": 1488,
+    "y": 369
+  },
+  "Q20_sdf": {
+    "height": 68,
+    "pixelRatio": 1,
+    "width": 84,
+    "x": 2425,
+    "y": 1090,
+    "sdf": true
+  },
+  "Q21_sdf": {
+    "height": 61,
+    "pixelRatio": 1,
+    "width": 85,
+    "x": 2489,
+    "y": 1158,
+    "sdf": true
+  },
+  "Q22_sdf": {
+    "height": 62,
+    "pixelRatio": 1,
+    "width": 78,
+    "x": 2509,
+    "y": 1090,
+    "sdf": true
+  },
+  "Q23_sdf": {
+    "height": 116,
+    "pixelRatio": 1,
+    "width": 86,
+    "x": 2312,
+    "y": 1926,
+    "sdf": true
+  },
+  "Q24_sdf": {
+    "height": 115,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2016,
+    "y": 200,
+    "sdf": true
+  },
+  "Q25_sdf": {
+    "height": 55,
+    "pixelRatio": 1,
+    "width": 115,
+    "x": 1298,
+    "y": 1489,
+    "sdf": true
+  },
+  "Q26_sdf": {
+    "height": 43,
+    "pixelRatio": 1,
+    "width": 144,
+    "x": 2105,
+    "y": 1369,
+    "sdf": true
+  },
+  "Q31_sdf": {
+    "height": 57,
+    "pixelRatio": 1,
+    "width": 108,
+    "x": 2315,
+    "y": 990,
+    "sdf": true
+  },
+  "Q40_sdf": {
+    "height": 72,
+    "pixelRatio": 1,
+    "width": 76,
+    "x": 2252,
+    "y": 1542,
+    "sdf": true
+  },
+  "Q81_sdf": {
+    "height": 86,
+    "pixelRatio": 1,
+    "width": 41,
+    "x": 2259,
+    "y": 1050,
+    "sdf": true
+  },
+  "Q90_sdf": {
+    "height": 76,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 1522,
+    "y": 1489,
+    "sdf": true
+  },
+  "R1": {
+    "height": 104,
+    "pixelRatio": 1,
+    "width": 143,
+    "x": 2344,
+    "y": 625
+  },
+  "S1": {
+    "height": 180,
+    "pixelRatio": 1,
+    "width": 180,
+    "x": 2360,
+    "y": 298
+  },
+  "S10": {
     "height": 12,
     "pixelRatio": 1,
     "width": 12,
-    "x": 2805,
-    "y": 872
+    "x": 2680,
+    "y": 792
   },
-  "S - Radar, Radio, Satellite Navigation Systems/S5": {
+  "S5": {
     "height": 24,
     "pixelRatio": 1,
     "width": 59,
-    "x": 2016,
-    "y": 345
+    "x": 1776,
+    "y": 769
   },
-  "T - Services/T1.1": {
+  "T1.1": {
     "height": 138,
     "pixelRatio": 1,
     "width": 136,
-    "x": 2360,
-    "y": 578
+    "x": 2192,
+    "y": 1617
   },
-  "T - Services/T12": {
+  "T12": {
     "height": 1052,
     "pixelRatio": 1,
     "width": 744,
     "x": 0,
     "y": 0
   },
-  "U - Small Craft (Leisure) Facilities/U1.1": {
+  "U1.1": {
     "height": 120,
     "pixelRatio": 1,
     "width": 120,
-    "x": 2643,
-    "y": 418
+    "x": 2315,
+    "y": 870
   },
-  "U - Small Craft (Leisure) Facilities/U1.2": {
+  "U1.2": {
     "height": 120,
     "pixelRatio": 1,
     "width": 120,
-    "x": 2726,
-    "y": 238
+    "x": 2400,
+    "y": 729
   },
-  "U - Small Craft (Leisure) Facilities/U11": {
+  "U11": {
     "height": 200,
     "pixelRatio": 1,
     "width": 200,
-    "x": 2652,
-    "y": 1768
+    "x": 1244,
+    "y": 1819
   },
-  "U - Small Craft (Leisure) Facilities/U12": {
+  "U12": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3257,
-    "y": 560
+    "x": 2705,
+    "y": 852
   },
-  "U - Small Craft (Leisure) Facilities/U13": {
+  "U13": {
     "height": 580,
     "pixelRatio": 1,
     "width": 580,
     "x": 0,
     "y": 1052
   },
-  "U - Small Craft (Leisure) Facilities/U17": {
+  "U17": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 1352,
-    "y": 1550
+    "x": 2289,
+    "y": 1152
   },
-  "U - Small Craft (Leisure) Facilities/U18": {
+  "U18": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3283,
-    "y": 390
+    "x": 2705,
+    "y": 912
   },
-  "U - Small Craft (Leisure) Facilities/U2": {
+  "U2": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3333,
-    "y": 300
+    "x": 2745,
+    "y": 972
   },
-  "U - Small Craft (Leisure) Facilities/U21": {
+  "U21": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3339,
-    "y": 240
+    "x": 2787,
+    "y": 1032
   },
-  "U - Small Craft (Leisure) Facilities/U22": {
+  "U22": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3343,
-    "y": 180
+    "x": 2765,
+    "y": 738
   },
-  "U - Small Craft (Leisure) Facilities/U23": {
+  "U23": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3374,
-    "y": 120
+    "x": 2765,
+    "y": 798
   },
-  "U - Small Craft (Leisure) Facilities/U26": {
+  "U26": {
     "height": 369,
     "pixelRatio": 1,
     "width": 368,
     "x": 1488,
     "y": 0
   },
-  "U - Small Craft (Leisure) Facilities/U29": {
+  "U29": {
     "height": 387,
     "pixelRatio": 1,
     "width": 744,
     "x": 0,
     "y": 1632
   },
-  "U - Small Craft (Leisure) Facilities/U3": {
+  "U3": {
     "height": 100,
     "pixelRatio": 1,
     "width": 60,
-    "x": 2863,
-    "y": 351
+    "x": 2438,
+    "y": 1363
   },
-  "U - Small Craft (Leisure) Facilities/U30": {
+  "U30": {
     "height": 1052,
     "pixelRatio": 1,
     "width": 744,
     "x": 744,
     "y": 0
   },
-  "U - Small Craft (Leisure) Facilities/U4": {
+  "U4": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3406,
-    "y": 60
+    "x": 2765,
+    "y": 858
   },
-  "U - Small Craft (Leisure) Facilities/U5": {
+  "U5": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3455,
-    "y": 0
+    "x": 2805,
+    "y": 918
   },
-  "U - Small Craft (Leisure) Facilities/U6": {
+  "U6": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3025,
-    "y": 1352
+    "x": 2511,
+    "y": 1492
   },
-  "U - Small Craft (Leisure) Facilities/U9": {
+  "U9": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3025,
-    "y": 1412
+    "x": 2511,
+    "y": 1552
   },
-  "U - Small Craft (Leisure) Facilities/U_pump-out": {
+  "U_pump-out": {
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 3025,
-    "y": 1472
+    "x": 2511,
+    "y": 1612
   },
-  "U - Small Craft (Leisure) Facilities/Uc_no": {
+  "Uc_no": {
     "height": 518,
     "pixelRatio": 1,
     "width": 518,
     "x": 580,
     "y": 1052
+  },
+  "alignment": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2535,
+    "y": 1672
+  },
+  "anchoring_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2535,
+    "y": 1732
+  },
+  "berthing_lateral_limit": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2571,
+    "y": 1492
+  },
+  "berthing_lateral_limits": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2574,
+    "y": 1152
+  },
+  "berthing_marked_1": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2583,
+    "y": 1430
+  },
+  "berthing_marked_2": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2629,
+    "y": 1332
+  },
+  "berthing_marked_3": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2664,
+    "y": 1269
+  },
+  "berthing_marked_non_pushing_1": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2571,
+    "y": 1552
+  },
+  "berthing_marked_non_pushing_2": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2571,
+    "y": 1612
+  },
+  "berthing_marked_non_pushing_3": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2595,
+    "y": 1672
+  },
+  "berthing_marked_pushing_1": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2595,
+    "y": 1732
+  },
+  "berthing_marked_pushing_2": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2617,
+    "y": 1792
+  },
+  "berthing_marked_pushing_3": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2617,
+    "y": 1852
+  },
+  "berthing_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2641,
+    "y": 1912
+  },
+  "berthing_rafting_limit": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2571,
+    "y": 1492
+  },
+  "berthing_unmarked": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2641,
+    "y": 1972
+  },
+  "berthing_unmarked_non_pushing": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2631,
+    "y": 1490
+  },
+  "berthing_unmarked_pushing": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2643,
+    "y": 1392
+  },
+  "bifucation": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 36,
+    "x": 2814,
+    "y": 1152
+  },
+  "bridge": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2689,
+    "y": 1329
+  },
+  "center_channel": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2724,
+    "y": 1269
+  },
+  "change_bank": {
+    "height": 42,
+    "pixelRatio": 1,
+    "width": 42,
+    "x": 2535,
+    "y": 907
+  },
+  "channel_distance_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2504,
+    "y": 1290
+  },
+  "channel_distance_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2575,
+    "y": 1212
+  },
+  "channel_one_way": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2438,
+    "y": 1463
+  },
+  "channel_two_way": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2735,
+    "y": 1187
+  },
+  "check_point": {
+    "height": 284,
+    "pixelRatio": 1,
+    "width": 284,
+    "x": 2076,
+    "y": 200
+  },
+  "closed_area": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2631,
+    "y": 1550
+  },
+  "cross_river_to_port": {
+    "height": 42,
+    "pixelRatio": 1,
+    "width": 42,
+    "x": 2535,
+    "y": 907
+  },
+  "cross_river_to_starboard": {
+    "height": 42,
+    "pixelRatio": 1,
+    "width": 42,
+    "x": 2535,
+    "y": 907
+  },
+  "cross_to_port": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2569,
+    "y": 1350
+  },
+  "cross_to_starboard": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2525,
+    "y": 949
+  },
+  "crossing": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 1852,
+    "y": 1417
+  },
+  "drinking_water": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2631,
+    "y": 1610
+  },
+  "entry_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2525,
+    "y": 1029
+  },
+  "ferry_independent": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2587,
+    "y": 1089
+  },
+  "ferry_non_independent": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2654,
+    "y": 1149
+  },
+  "give_way_crossing": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2655,
+    "y": 1670
+  },
+  "give_way_junction": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2655,
+    "y": 1730
+  },
+  "high_speeds_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2677,
+    "y": 1790
+  },
+  "isolated_danger": {
+    "height": 55,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 2389,
+    "y": 1270
+  },
+  "keep_lookout": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2677,
+    "y": 1850
+  },
+  "keep_to_margin": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 36,
+    "x": 2855,
+    "y": 1212
+  },
+  "keep_to_mid-river": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 36,
+    "x": 2305,
+    "y": 1333
+  },
+  "keep_to_port": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2535,
+    "y": 827
+  },
+  "keep_to_port_margin": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 36,
+    "x": 2855,
+    "y": 1212
+  },
+  "keep_to_starboard": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2585,
+    "y": 907
+  },
+  "keep_to_starboard_margin": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 36,
+    "x": 2855,
+    "y": 1212
+  },
+  "launching_beaching_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2701,
+    "y": 1910
+  },
+  "limited_depth": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2701,
+    "y": 1970
+  },
+  "limited_headroom": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2691,
+    "y": 1452
+  },
+  "limited_width": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2703,
+    "y": 1389
+  },
+  "main_waterway_ahead_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2749,
+    "y": 1329
+  },
+  "main_waterway_ahead_left_secondary_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2784,
+    "y": 1247
+  },
+  "main_waterway_ahead_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2795,
+    "y": 1187
+  },
+  "main_waterway_ahead_right_secondary_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2814,
+    "y": 1092
+  },
+  "main_waterway_crossing": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2847,
+    "y": 978
+  },
+  "main_waterway_junction": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2691,
+    "y": 1512
+  },
+  "main_waterway_left_secondary_ahead": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2691,
+    "y": 1572
+  },
+  "main_waterway_left_secondary_ahead_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2715,
+    "y": 1632
+  },
+  "main_waterway_left_secondary_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2715,
+    "y": 1692
+  },
+  "main_waterway_right_secondary_ahead": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2737,
+    "y": 1752
+  },
+  "main_waterway_right_secondary_ahead_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2737,
+    "y": 1812
+  },
+  "main_waterway_right_secondary_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2761,
+    "y": 1872
+  },
+  "make_radio_contact": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2761,
+    "y": 1932
+  },
+  "mooring_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2751,
+    "y": 1449
+  },
+  "motor_craft_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2763,
+    "y": 1389
+  },
+  "move_to_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2584,
+    "y": 1272
+  },
+  "move_to_port": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2595,
+    "y": 827
+  },
+  "move_to_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2655,
+    "y": 1209
+  },
+  "move_to_starboard": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2620,
+    "y": 725
+  },
+  "navigate_along_bank": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2809,
+    "y": 1307
+  },
+  "navigate_mid_river": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 36,
+    "x": 2305,
+    "y": 1333
+  },
+  "navigation_restrictions": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2844,
+    "y": 1247
+  },
+  "no_anchoring": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2855,
+    "y": 1152
+  },
+  "no_berthing": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2874,
+    "y": 1038
+  },
+  "no_berthing_lateral_limit": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2751,
+    "y": 1509
+  },
+  "no_convoy_overtaking": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2605,
+    "y": 987
+  },
+  "no_convoy_passing": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2645,
+    "y": 907
+  },
+  "no_convoy_passing_overtaking": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 1852,
+    "y": 1617
+  },
+  "no_entry": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2665,
+    "y": 987
+  },
+  "no_high_speeds": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2751,
+    "y": 1569
+  },
+  "no_launching_beaching": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2775,
+    "y": 1629
+  },
+  "no_mooring": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2775,
+    "y": 1689
+  },
+  "no_motor_craft": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2797,
+    "y": 1749
+  },
+  "no_overtaking": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2667,
+    "y": 1047
+  },
+  "no_passage_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2797,
+    "y": 1809
+  },
+  "no_passage_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2821,
+    "y": 1869
+  },
+  "no_passing": {
+    "height": 80,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2727,
+    "y": 1047
+  },
+  "no_passing_overtaking": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 1852,
+    "y": 1817
+  },
+  "no_sailboards": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2821,
+    "y": 1929
+  },
+  "no_sailing_craft": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2811,
+    "y": 1449
+  },
+  "no_small_craft": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 2052,
+    "y": 1417
+  },
+  "no_sport_craft": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2823,
+    "y": 1367
+  },
+  "no_turning": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2869,
+    "y": 1307
+  },
+  "no_unpowered_craft": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2904,
+    "y": 1212
+  },
+  "no_wash": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2915,
+    "y": 1098
+  },
+  "no_waterbikes": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2811,
+    "y": 1509
+  },
+  "no_waterskiing": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2811,
+    "y": 1569
+  },
+  "opening_to_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2835,
+    "y": 1629
+  },
+  "opening_to_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2835,
+    "y": 1689
+  },
+  "overhead_cable": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2857,
+    "y": 1749
+  },
+  "proceed_to_left": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2354,
+    "y": 1494
+  },
+  "proceed_to_right": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2435,
+    "y": 949
+  },
+  "prohibition_ends": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2857,
+    "y": 1809
+  },
+  "radio_information": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2881,
+    "y": 1869
+  },
+  "reduce_speed": {
+    "height": 200,
+    "pixelRatio": 1,
+    "width": 200,
+    "x": 2105,
+    "y": 1169
+  },
+  "sailboards_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2881,
+    "y": 1929
+  },
+  "sailing_craft_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2871,
+    "y": 1427
+  },
+  "secondary_waterway_crossing": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2883,
+    "y": 1367
+  },
+  "secondary_waterway_left": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2929,
+    "y": 1272
+  },
+  "secondary_waterway_right": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2964,
+    "y": 1158
+  },
+  "sound_horn": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2871,
+    "y": 1487
+  },
+  "speed_limit": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2871,
+    "y": 1547
+  },
+  "sport_craft_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2895,
+    "y": 1607
+  },
+  "stop": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2895,
+    "y": 1667
+  },
+  "telephone": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2917,
+    "y": 1727
+  },
+  "traffic_between_margins": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2917,
+    "y": 1787
+  },
+  "turning_area": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2931,
+    "y": 1427
+  },
+  "unpowered_craft_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2943,
+    "y": 1332
+  },
+  "vehicle_loading_berth": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2989,
+    "y": 1218
+  },
+  "waterbikes_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2931,
+    "y": 1487
+  },
+  "waterskiing_permitted": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 60,
+    "x": 2931,
+    "y": 1547
+  },
+  "weir": {
+    "height": 60,
+    "pixelRatio": 1,
+    "width": 80,
+    "x": 2734,
+    "y": 1127
   }
 }
