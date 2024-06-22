@@ -33,7 +33,8 @@
         container: 'map',
         style: 'https://raw.githubusercontent.com/josxha/vector-seamarks/main/style/seamarks.json',
         center: [3.57, 51.74],
-        zoom: 9
+        zoom: 9,
+        attributionControl: false
     });
 
     // Add some controls
@@ -53,6 +54,13 @@
         })
     );
     map.addControl(new maplibregl.ScaleControl());
+
+    // Add attributions
+    const attribution = new maplibregl.AttributionControl({
+        compact: false,
+        customAttribution: 'MapLibre | <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
+    });
+    map.addControl(attribution);
 </script>
 </body>
 </html>
