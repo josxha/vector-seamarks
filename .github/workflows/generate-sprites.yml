@@ -20,7 +20,7 @@ jobs:
       - name: Install generator
         run: brew install flother/taps/spreet
       - name: Generate sprites
-        run: ./generate_sprites.sh
+        run: sh generate_sprites.sh
       - name: Check difference
         run: |
           git add --all . && \
