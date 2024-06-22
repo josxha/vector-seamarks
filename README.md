@@ -59,7 +59,7 @@ OpenSeaMap data. Some of them are:
 
 ### Current limitations
 
-- Multiple small craft facilities can be on the same point separated by a semicolon
+- Can't display small craft facilities if multiple are on the same point separated by a semicolon
 - Some sea marks are not rendered correctly 
   - [Sectored and Directional Lights](https://wiki.openstreetmap.org/wiki/Seamarks/Sectored_and_Directional_Lights)
   - Buoys, Beacons and Lights with multiple colors
