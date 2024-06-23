@@ -1,0 +1,26 @@
+{
+  "version": 8,
+  "name": "Raster Map",
+  "metadata": {"maputnik:renderer": "mlgljs"},
+  "sources": {
+    "openstreetmap": {
+      "type": "raster",
+      "tiles": ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"],
+      "minzoom": 0,
+      "maxzoom": 20
+    },
+    "openseamap": {
+      "type": "raster",
+      "tiles": ["https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png"],
+      "minzoom": 0,
+      "maxzoom": 20
+    }
+  },
+  "sprite": "",
+  "glyphs": "https://orangemug.github.io/font-glyphs/glyphs/{fontstack}/{range}.pbf",
+  "layers": [
+    {"id": "openstreetmap", "type": "raster", "source": "openstreetmap"},
+    {"id": "openseamap", "type": "raster", "source": "openseamap"}
+  ],
+  "id": "x0rwcyv"
+}

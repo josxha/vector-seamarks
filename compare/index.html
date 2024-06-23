@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compare Vector Sea Marks</title>
+    <link href="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css" rel="stylesheet">
+    <script src="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js"></script>
+    <script src="https://unpkg.com/pmtiles@latest/dist/pmtiles.js"></script>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+      }
+      #container {
+        display: flex;
+        height: 100%;
+        width: 100%;
+      }
+      #left, #right {
+        width: 50%;
+        height: 100%;
+      }
+    </style>
+</head>
+<body>
+<div id="container">
+    <div id="left"></div>
+    <div id="right"></div>
+</div>
+<script>
+    const initCenter = [3.57, 51.74];
+    const initZoom = 9;
+    const attributionText = 'MapLibre | <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>';
+
+    // Add support that PMTiles files can get used as sources
+    // see https://docs.protomaps.com/pmtiles/maplibre
+    const protocol = new pmtiles.Protocol();
+    maplibregl.addProtocol("pmtiles", protocol.tile);
+
+    const mapVector = new maplibregl.Map({
+        container: 'left',
+        style: 'https://raw.githubusercontent.com/josxha/vector-seamarks/main/style/seamarks.json',
+        center: initCenter,
+        zoom: initZoom,
+        attributionControl: false
+    });
+
+    mapVector.addControl(
+        new maplibregl.NavigationControl({
+            visualizePitch: true,
+            showZoom: true,
+            showCompass: true
+        })
+    );
+    mapVector.addControl(
+        new maplibregl.GeolocateControl({
+            positionOptions: {
+                enableHighAccuracy: true
+            },
+            trackUserLocation: true
+        })
+    );
+    mapVector.addControl(new maplibregl.ScaleControl());
+
+    mapVector.addControl(new maplibregl.AttributionControl({
+        compact: false,
+        customAttribution: 'MapLibre | <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
+    }));
+
+    const mapRaster = new maplibregl.Map({
+        container: 'right',
+        style: 'raster_map.json',
+        center: initCenter,
+        zoom: initZoom,
+        attributionControl: false
+    });
+
+    mapRaster.addControl(
+        new maplibregl.NavigationControl({
+            visualizePitch: true,
+            showZoom: true,
+            showCompass: true
+        })
+    );
+    mapRaster.addControl(
+        new maplibregl.GeolocateControl({
+            positionOptions: {
+                enableHighAccuracy: true
+            },
+            trackUserLocation: true
+        })
+    );
+    mapRaster.addControl(new maplibregl.ScaleControl());
+    mapRaster.addControl(new maplibregl.AttributionControl({
+        compact: false,
+        customAttribution: attributionText
+    }));
+
+    let isSyncing = false; // flag to prevent infinite loop
+    mapRaster.on('move', function () {
+        if (isSyncing) return;
+        isSyncing = true;
+        mapVector.jumpTo({
+            center: mapRaster.getCenter(),
+            zoom: mapRaster.getZoom(),
+            bearing: mapRaster.getBearing(),
+            pitch: mapRaster.getPitch()
+        });
+        isSyncing = false;
+    });
+    mapVector.on('move', function () {
+        if (isSyncing) return;
+        isSyncing = true;
+        mapRaster.jumpTo({
+            center: mapVector.getCenter(),
+            zoom: mapVector.getZoom(),
+            bearing: mapVector.getBearing(),
+            pitch: mapVector.getPitch()
+        });
+        isSyncing = false;
+    });
+</script>
+</body>
+</html>
