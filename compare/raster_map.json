@@ -13,7 +13,7 @@
       "type": "raster",
       "tiles": ["https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png"],
       "minzoom": 0,
-      "maxzoom": 20
+      "maxzoom": 18
     }
   },
   "sprite": "",
